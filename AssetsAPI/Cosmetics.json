@@ -41268,7 +41268,7 @@
     "HalloweenEventCurrency": {
         "Type": "Currency",
         "CosmeticId": "HalloweenEventCurrency",
-        "CosmeticName": "PutridSerum",
+        "CosmeticName": "Putrid Serum",
         "Description": "",
         "IconFilePathList": "images/PutridSerum_Icon.png"
     },
