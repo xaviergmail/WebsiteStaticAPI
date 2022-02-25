@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ],
+            "id": "Enduring",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false
+        },
+        {
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ],
+            "id": "LeftBehind",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false
+        },
+        {
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ],
+            "id": "StakeOut",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false
+        },
+        {
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ],
+            "id": "Thanatophobia",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false
+        }
+    ],
+    "startDate": "2022-02-23T00:00:00",
+    "endDate": "2022-03-01T23:59:59"
+}
