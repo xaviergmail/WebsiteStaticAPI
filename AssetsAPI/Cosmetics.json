@@ -41244,6 +41244,34 @@
         "Cells": 400,
         "Shards": null
     },
+    "cellsPack_25": {
+        "Type": "Currency",
+        "CosmeticId": "cellsPack_25",
+        "CosmeticName": "25 Auric Cells",
+        "Description": "",
+        "IconFilePathList": "images/AuricCells_Icon.png"
+    },
+    "cellsPack_50": {
+        "Type": "Currency",
+        "CosmeticId": "cellsPack_50",
+        "CosmeticName": "50 Auric Cells",
+        "Description": "",
+        "IconFilePathList": "images/AuricCells_Icon.png"
+    },
+    "cellsPack_75": {
+        "Type": "Currency",
+        "CosmeticId": "cellsPack_75",
+        "CosmeticName": "75 Auric Cells",
+        "Description": "",
+        "IconFilePathList": "images/AuricCells_Icon.png"
+    },
+    "HalloweenEventCurrency": {
+        "Type": "Currency",
+        "CosmeticId": "HalloweenEventCurrency",
+        "CosmeticName": "PutridSerum",
+        "Description": "",
+        "IconFilePathList": "images/PutridSerum_Icon.png"
+    },
     "ML_Hand01": {
         "CosmeticId": "ML_Hand01",
         "CosmeticName": "Pablo's Handiwork",
