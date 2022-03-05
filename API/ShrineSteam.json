@@ -7,7 +7,7 @@
                     "price": 2000
                 }
             ],
-            "id": "Enduring",
+            "id": "Balanced_Landing",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -20,7 +20,7 @@
                     "price": 2000
                 }
             ],
-            "id": "LeftBehind",
+            "id": "Distortion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -33,7 +33,7 @@
                     "price": 2000
                 }
             ],
-            "id": "StakeOut",
+            "id": "Dying_Light",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -46,13 +46,13 @@
                     "price": 2000
                 }
             ],
-            "id": "Thanatophobia",
+            "id": "OverwhelmingPresence",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
             "purchased": false
         }
     ],
-    "startDate": "2022-02-23T00:00:00",
-    "endDate": "2022-03-01T23:59:59"
+    "startDate": "2022-03-02T00:00:00",
+    "endDate": "2022-03-08T23:59:59"
 }
