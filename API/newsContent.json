@@ -8,6 +8,52 @@
                 "grdk",
                 "xsx",
                 "ps5",
+                "egs",
+                "stadia",
+                "switch"
+            ],
+            "description": "Please be advised that Daily Rituals will reset for everyone as of Chapter 23 (Sadako Rising) on March 8, 2022 11AM ET.<br/><br/>We apologize for the inconvenience. As a thank you, please be sure to login between March 8 2022 11AM ET - March 15 2022 11AM ET for 100K Bloodpoints!",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-03T16:00:00",
+            "title": "Important: Daily Rituals",
+            "type": 4,
+            "version": "5.5.0",
+            "weight": 30602.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs",
+                "stadia",
+                "switch"
+            ],
+            "description": "Feel the Bloodrush!<br/><br/>Between Feb 28 - March 7, earn 1.5x Bloodpoints from trials!",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-02-28T16:00:00",
+            "title": "Blood Rush",
+            "type": 4,
+            "version": "5.5.0",
+            "weight": 30601.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
                 "egs"
             ],
             "description": "Level 3 of Tome 10: SAW has now been unlocked.<br/><br/>Righteous intentions conceal a deep-rooted obsession. Unlock David Tapp's memories through Tome 10. ",
@@ -19,7 +65,7 @@
             "title": "TOME 10: SAW - LEVEL 3",
             "type": 2,
             "version": "5.5.0",
-            "weight": 30500.0
+            "weight": 30600.0
         },
         {
             "contentTags": [
@@ -35,7 +81,81 @@
             "title": "TOME 10: SAW - LEVEL 3",
             "type": 2,
             "version": "5.5.0",
-            "weight": 30500.0
+            "weight": 30600.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Do you believe in love at first Dwight? Get the below with an Amazon Prime membership now.<br/><br/>Time is running out to get the below outfit with <b><font color=\"#9234eb\">Prime Gaming</font></b>: <li>Dwight Fairfield - <b>Love Hurts Outfit</b></li><br/><br/>Details: <a href=\"event:https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight\"><u>https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight</u></font></a><br/><br/>Get this content from February 10th through March 10th with Prime Gaming.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-02-18T16:00:00",
+            "title": "PRIME GAMING CONTENT",
+            "type": 2,
+            "version": "5.5.2",
+            "weight": 30503.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Do you believe in love at first Dwight? Get the below with an Amazon Prime membership now.<br/><br/>Time is running out to get the below outfit with <b><font color=\"#9234eb\">Prime Gaming</font></b>: <li>Dwight Fairfield - <b>Love Hurts Outfit</b></li><br/><br/>Details: deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight<br/><br/>Get this content from February 10th through March 10th with Prime Gaming.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-02-18T16:00:00",
+            "title": "PRIME GAMING CONTENT",
+            "type": 2,
+            "version": "5.5.2",
+            "weight": 30503.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "An ancient priestess and a depraved carny walk into a bar...<br/><br/>Now available in the store from the Rift:<li>The Plague - Priestess of the Lost</li><li>The Clown - Backstage Carnage</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-02-17T16:00:00",
+            "title": "Rift to Store Outfits",
+            "type": 2,
+            "version": "5.5.0",
+            "weight": 30502.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "An ancient priestess and a depraved carny walk into a bar...<br/><br/>Now available in the store from the Rift:<li>The Plague - Priestess of the Lost</li><li>The Clown - Backstage Carnage</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-02-17T16:00:00",
+            "title": "Rift to Store Outfits",
+            "type": 2,
+            "version": "5.5.0",
+            "weight": 30502.0
         },
         {
             "contentTags": [
