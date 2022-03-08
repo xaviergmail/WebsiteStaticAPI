@@ -85,7 +85,7 @@
         "Name": "Black Ward",
         "Description": "Burning this offering grants you protection against the loss of your add-ons at the end of the trial.<br><span class=\"FlavorText\">\"Hear my voice, spare my ways, protect me from the void.\"</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_wardBlack.png"
     },
     "BogLaurelSachet": {
@@ -222,7 +222,7 @@
         "Name": "Cut Coin",
         "Description": "Calls on The Entity to prevent the appearance of <b>2</b> chests.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"Two halves of a thick metallic coin.\"</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_cutCoin.png"
     },
     "CypressMementoMori": {
@@ -298,7 +298,7 @@
         "Name": "Ebony Memento Mori",
         "Description": "Grants the ability to <b>kill all Survivors</b> who have reached the <b>second Hook State</b> by your hand during the next trial.<li>Secret.</li><br><span class=\"FlavorText\">\"I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then\u2026 grinned.\"</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/iconFavors_momentoMoriEbony.png"
     },
     "FaintReagent": {
@@ -430,7 +430,7 @@
         "Name": "Full Moon Bouquet",
         "Description": "Calls upon The Entity for the <b>brightest moonlight</b>.<br><span class=\"FlavorText\">\"As the moon rises, the wolves howl, marking the beginning of the hunt.\"</span>",
         "Role": "None",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_fullMoonBouquet.png"
     },
     "HazyReagent": {
@@ -552,7 +552,7 @@
         "Name": "Murky Reagent",
         "Description": "<b>Greatly thickens</b> the Dark Mist.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" -Unknown, Notebook</span>",
         "Role": "None",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_murkyReagent.png"
     },
     "NewMoonBouquet": {
@@ -561,7 +561,7 @@
         "Name": "New Moon Bouquet",
         "Description": "Calls upon The Entity for the <b>darkest moonlight</b>.<br><span class=\"FlavorText\">\"Better go back to sleep, there is no moon this night.\"</span>",
         "Role": "None",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/iconFavors_newMoonBouquet.png"
     },
     "PElliotLunacyTicket": {
@@ -586,7 +586,7 @@
         "Name": "Petrified Oak",
         "Description": "Calms The Entity and <b>Slightly increases</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A deteriorating piece of petrified wood.\"</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_petrifiedOak.png"
     },
     "PrimroseBlossomSachet": {
@@ -612,7 +612,7 @@
         "Name": "Putrid Oak",
         "Description": "Calls upon The Entity to <b>Considerably decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A ruined piece of oak oozing with a black putrescent liquid.\"</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_putridOak.png"
     },
     "QuarterMoonBouquet": {
@@ -696,7 +696,7 @@
         "Name": "Shiny Coin",
         "Description": "Calls on The Entity to create <b>2</b> more chests.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A clean and polished piece of gold.\"</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_shinyCoin.png"
     },
     "ShreddedPlate": {
@@ -734,7 +734,7 @@
         "Name": "Shroud of Binding",
         "Description": "All Survivors start the trial together.<br><li>Secret.</li><br><span class=\"FlavorText\">\"A square and washed out piece of fabric with small knots on each end.\"</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_shroudOfBinding.png"
     },
     "ShroudofSeparation": {
@@ -862,7 +862,7 @@
         "Name": "White Ward",
         "Description": "Burning this offering grants you protection against the loss of your item and add-ons.<br><span class=\"FlavorText\">\"Keep me from evil, defend me, and pass away.\"</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_wardWhite.png"
     },
     "VigosJarOfSaltyLips": {
@@ -874,7 +874,7 @@
         "Name": "Vigo's Jar of Salty Lips",
         "Description": "<b>Considerably increases</b> luck of <b>all</b> Survivors.<br><li>Stacks.</li><br><span class=\"FlavorText\">\"A tightly sealed glass jar containing torn human lips floating in a murky brine. Some believe it brings good fortune.\"</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "Image": "images/UI/Icons/Favors/iconFavors_jarOfSaltyLips.png"
     },
     "MuddySplinter": {
@@ -888,7 +888,7 @@
         "Name": "Muddy Splinter",
         "Description": "Allows you to take on the role of <b>The Hag</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Avoid walking in the mud or The Hag will eat your bones.\"</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/DLC3/iconFavors_muddySplinter.png"
     },
     "FumingCordage": {
@@ -978,7 +978,7 @@
         "Name": "Gruesome Gateau",
         "Description": "A terrific stomach-churning cake to mark our three years together. Grants <b>103%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\u201cHappy Anniversary! Here's to our three years together!\"<br>\u2013 The Dead by Daylight Team</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_gruesomeGateau.png"
     },
     "Anniversary2020Offering": {
@@ -990,7 +990,7 @@
         "Name": "Ghastly Gateau",
         "Description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants <b>104%</b> bonus Bloodpoints in all categories for all players this trial.<br><li>Stacks</li><br><span class=\"FlavorText\">\"Happy Anniversary! Here's to many more!\"<br>- The Dead by Daylight Team</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconFavors_4thAnniversary.png"
     },
     "Anniversary2021Offering": {
@@ -1002,7 +1002,7 @@
         "Name": "Sacrificial Cake",
         "Description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants <b>105%</b> bonus Bloodpoints in all categories for all players this trial.<li>Stacks</li><br><span class=\"FlavorText\">\"Happy anniversary! We\u2019re dying to celebrate many more with you!\" <br>- The Dead by Daylight Team</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Anniversary/iconsFavors_5thAnniversary.png"
     },
     "BoneSplinter": {
@@ -1016,7 +1016,7 @@
         "Name": "Bone Splinter",
         "Description": "Allows you to take on the role of <b>The Cannibal</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"You like this face? \" -Hitchhiker</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/Cannibal/iconFavors_boneSplinter.png"
     },
     "BlackSplinter": {
@@ -1030,7 +1030,7 @@
         "Name": "Black Splinter",
         "Description": "Allows you to take on the role of <b>The Shape</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"He came home!\" - Dr. Sam Loomis</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/DLC2/iconFavors_blackSplinter.png"
     },
     "StrodeRealtyKey": {
@@ -1082,7 +1082,7 @@
         "Name": "Shock Splinter",
         "Description": "Allows you to take on the role of The Doctor for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Your secrets are safe with me.\"</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/DLC4/iconFavors_shockSplinter.png"
     },
     "EmergencyCertificate": {
@@ -1184,7 +1184,7 @@
         "Name": "Smoking Splinter",
         "Description": "Allows you to take on the role of <b>The Nightmare</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/England/iconFavors_smokingSplinter.png"
     },
     "ThePiedPiper": {
@@ -1210,7 +1210,7 @@
         "Name": "Glass Splinter",
         "Description": "Allows you to take on the role of <b>The Pig</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><li>Secret.</li><br><span class=\"FlavorText\">\"Amanda, do not be afraid. Your life has just begun.\"-Jigsaw</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "Image": "images/UI/Icons/Favors/Finland/iconFavors_glassSplinter.png"
     },
     "Jigsawpiece": {
@@ -1247,7 +1247,7 @@
         "Name": "Pustula Petals",
         "Description": "Calls upon The Entity to generate <B>1 Blighted Hook</B> and <B>1 Blighted Generator</B>.<li>As a Killer, hook a Survivor on a <B>Blighted Hook</B> for the first time to earn bonus Bloodpoints.</li><li>As a Survivor, find and repair a <B>Blighted Generator</B> to earn bonus Bloodpoints.</li><li>Using this offering increases the amount of Bloodpoints earned for these interactions.</li><li>NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.</li><li>Stacks.</li><li><i>Only playable during the Midnight Grove Event.</i></li><BR><span class=\"FlavorText\">\"The pustulas fill the air with a rancid odor that some may find enticing.\"</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Halloween/iconFavors_pustulaPetals.png"
     },
     "Halloween2021Offering": {
@@ -1260,7 +1260,7 @@
         "Name": "Cursed Seed",
         "Description": "Calls upon The Entity to generate <B>1 tangled hook</B> and <B>1 tangled generator</B>.<li>As a Killer, hook a Survivor on a <B>tangled hook</B> for the first time to earn bonus Bloodpoints.</li><li>As a Survivor, find and repair a <B>tangled generator</B> to earn bonus Bloodpoints.</li><li>Using this offering increases the amount of Bloodpoints earned for these interactions.</li><li>NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.</li><li>Stacks.</li><li><i>Only playable during The Midnight Grove event.</i></li><BR><span class=\"FlavorText\">\"The seed crackles as if what's within is attempting to burst free.\"</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Halloween2021/iconFavors_CursedSeed.png"
     },
     "IonThemeOffering": {
@@ -1297,7 +1297,7 @@
         "Name": "Red Envelope",
         "Description": "A gesture of generosity to bring good fortune to the unfortunate. Calls upon The Entity to generate <b>1 Red Envelope</b> per player.<br><ul><li>The aura of your own envelope is revealed to you at the start of the trial.</li><li>Interacting with your own Red Envelope reveals its aura to all other players in the trial until claimed.</li><li>Opening another player's Red Envelope awards you with a random amount of Bloodpoints.</li><li>When another player opens your envelope during the trial, you are awarded Bloodpoints and a cosmetic from the <b>Lurking Stripes</b> collection.</li></ul>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/LunarNewYear/iconFavors_redMoneyPacket.png"
     },
     "SummerOffering": {
@@ -1310,7 +1310,7 @@
         "Name": "BBQ Invitation",
         "Description": "Calls upon The Entity to generate <B>1 Grill Hook</B> and <B>1 Frozen Cocktail Machine</B>.<li>As a Killer, hook a Survivor on a <B>Grill Hook</B> for the first time to gain a <B>Survivor Chop</B>. Grants bonus Bloodpoints.</li><li>As a Survivor, complete repairs on a <B>Frozen Cocktail Machine</B> for all Survivors to gain a <B>Frosty Margarita</B>. Grants bonus Bloodpoints.</li><li><i>Only playable during Scorching Summer BBQ Event. NOTE: During the event, 2 default Grill Hooks and 2 default Frozen Cocktail Machines will spawn in the map.</i></li><li>Stacks.</li><BR><span class=\"FlavorText\">\"Kick back and relax in the moonlight with an ice cold drink and some barbecued meats. The Entity has invited you to enjoy yourself this fine evening.\"</span>",
         "Role": "None",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "Image": "images/UI/Icons/Favors/Summer/iconFavors_bbqInvitation.png"
     },
     "UkraineThemeOffering": {

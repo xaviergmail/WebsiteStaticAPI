@@ -8,7 +8,7 @@
         "Name": "\"All Seeing\" - Spirit",
         "Description": "The Kra-Frabai symbol, representing The Entity watching over us, glows ominously on the head of the bell.<br><li>Unlocks awesome potential in one's aura reading ability. While Cloaked, the <b>repair progress of generators</b> can be determined by the <b>intensity of their auras.</b></li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_spiritAllSeeing.png"
@@ -50,7 +50,7 @@
         "Name": "\"Shadow Dance\" - Blood",
         "Description": "The Yiwarick symbol, representing dark synergy, is stamped in blood on the body of the Bell.<br><li><b>Increases</b> speed of vaulting windows, breaking pallets or walls, and damaging generators by <b>60%</b> while cloaked.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodShadowDance.png"
@@ -78,7 +78,7 @@
         "Name": "Coxcombed Clapper",
         "Description": "A simple coxcomb knotted rope wrapped around the bell clapper to muffle its sound. A malevolent aura emanates from it. <br><li>Renders the <b>Wailing Bell</b> <b>completely silent.</b></li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_coxcombedClapper.png"
@@ -106,7 +106,7 @@
         "Name": "\"Windstorm\" - Blood",
         "Description": "The Ohuwe-Onmnea symbol, representing a howling storm, is stamped in blood on the body of the bell.<br><li><b>Increases</b> the Wraith's movement speed while cloaked by <b>9%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodWindstorm.png"
@@ -120,7 +120,7 @@
         "Name": "Tuned Carburetor",
         "Description": "Despite being caked in dirt and oil, this carburetor has been well adjusted.<br><li><b>Increases</b> Chainsaw charge speed by <b>25%</b>.</li><li><b>Decreases</b> base movement speed to <b>4.4 m/s</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Xipre/iconAddon_tunedCarburetor.png"
@@ -162,7 +162,7 @@
         "Name": "Apex Muffler",
         "Description": "A masterfully crafted chainsaw muffler that outperforms all others.<br><li>Chainsaw is silent for Survivors outside the Terror Radius.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Xipre/iconAddon_apexMuffler.png"
@@ -190,7 +190,7 @@
         "Name": "Pighouse Gloves",
         "Description": "Rancid smelling gloves, soiled with unknown substances. Despite everything wrong with them, they do have thick fabric.<br>While the Chainsaw is overheated:<li><b>Increases</b> action speed by <b>20%</b> when breaking pallets or walls or damaging generators.</li><li><b>Decreases</b> duration of pallet stuns by <b>50%</b>.</li><br><span class=\"FlavorText\">\"Ain\u2019t no mess can stain a hard-workin' man\u2019s soul.\" \u2014 Max Thompson Sr.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Xipre/iconAddon_pighouseGloves.png"
@@ -204,7 +204,7 @@
         "Name": "Spiked Boots",
         "Description": "Boots with strapped-on pieces of metal which burrow in mud for more stability and control with each step.<br><li><b>Increases</b> Chainsaw Sprint turn speed by <b>44%</b></li><li><b>Increases</b> recovery time after hitting an object with the Chainsaw by <b>28%</b></li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_spikedBoots.png"
@@ -222,7 +222,7 @@
         "Name": "High-end Sapphire lens",
         "Description": "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.<br><li><b>Increases</b> the range of the Flashlight beam by <b>25%</b>.</li><li><b>Increases</b> the width of the Flashlight beam by <b>25%</b>.</li><li><b>Increases</b> the brightness of\u00a0the Flashlight beam by <b>30%</b>.</li><li><b>Increases</b> Blindness duration by <b>15%</b>.</li>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_highEndSapphireLens.png"
@@ -276,7 +276,7 @@
         "Name": "Odd Bulb",
         "Description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.<br><li><b>Increases</b> the brightness of the Flashlight beam by <b>50%</b>.</li><li><b>Increases</b>\u00a0Blindness duration by <b>25%</b>.</li><li><b>Increases</b>\u00a0Flashlight battery consumption by <b>14%</b>.</li>",
         "Role": "Camper",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_oddBulb.png"
@@ -466,7 +466,7 @@
         "Name": "Bloody Coil",
         "Description": "Part sticky, part slippery, this grim liquid makes handling the traps' springs more dangerous.<br><li>When a <b>Bear Trap</b> is disarmed by a healthy Survivor, the bloody coils exact their price and that Survivor becomes injured.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodyCoil.png"
@@ -480,7 +480,7 @@
         "Name": "Iridescent Stone",
         "Description": "Traps sharpened with this sickly gleaming stone seem to gain a life of their own.<br><li>Every <b>30 seconds</b>, one closed <b>Bear Trap</b> chosen at random becomes set.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_diamondStone.png"
@@ -494,7 +494,7 @@
         "Name": "Oily Coil",
         "Description": "An oiled spring that marks the hands of those who meddle with a Bear Trap.<br><li>When resetting a <b>Bear Trap</b>, reveal the aura of the most recent Survivor to disarm it for <b>5 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_oilyCoil.png"
@@ -522,7 +522,7 @@
         "Name": "Tension Spring",
         "Description": "A high tension spring that snaps back into place after being stretched.<br><li>A <b>Bear Trap</b> resets <b>2 seconds</b> after a Survivor escapes from it.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_tensionSpring.png"
@@ -564,7 +564,7 @@
         "Name": "Honing Stone",
         "Description": "When used with the Bear Trap, the honing stone sharpens its blades. The razor sharp blades inflicts deep wounds aimed at bleeding the victim as fast as possible.<br><li>The trapped victim is left dying instead of injured if they free themselves.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_honingStone.png"
@@ -676,7 +676,7 @@
         "Name": "Trapper Sack",
         "Description": "A crude leather sack suitable for foraging.<br><li>All <b>Bear Traps</b> are carried at the beginning of the Trial instead of spawning on the map.</li><li><b>Bear Traps</b> cannot be picked up.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_trapperSack.png"
@@ -816,7 +816,7 @@
         "Name": "\"Swift Hunt\" - Blood",
         "Description": "The Kuntin-Takkho symbol, representing rapid descent on prey, is stamped in blood on the head of the Bell.<br><li><b>Increases</b> uncloaking speed by <b>12%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodSwiftHunt.png"
@@ -844,7 +844,7 @@
         "Name": "\"All Seeing\" - Blood",
         "Description": "The Kra-Frabai symbol, representing The Entity watching over us, is stamped in blood on the head of the Bell.<br><li>Unlocks hidden potential in one's aura reading ability. While Cloaked, the auras of Survivors within <b>8 meters</b> are revealed to you.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodKraFabai.png"
@@ -1026,7 +1026,7 @@
         "Name": "Lo Pro Chains",
         "Description": "Light chains that decrease the weight of the Chainsaw, allowing for greater maneuverability.<br><li>Continue a Chainsaw Sprint after breaking a pallet or wall.</li><li>Survivors hit with the Chainsaw within <b>5 seconds</b> of breaking a pallet or a wall are damaged for a single health state.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Xipre/iconAddon_lowProChains.png"
@@ -1082,7 +1082,7 @@
         "Name": "Iridescent Brick",
         "Description": "Once representative of Max Jr\u2019s confinement, this was the first brick to fall when his room\u2019s barricade came crashing down.<br><li>After maintaining a Chainsaw Sprint for <b>2 seconds</b>, grants <b>Undetectable</b> until the Chainsaw Sprint ends.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\"What kinda ruckus you stirrin\u2019, boy?\" \u2014 Max Thompson Sr.</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Xipre/iconAddon_iridescentBrick.png"
@@ -1142,7 +1142,7 @@
         "Name": "ADDON_firecracker_largepack_NAME",
         "Description": "ADDON_firecracker_largepack_DESC",
         "Role": "Camper",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": false,
         "Image": "images/UI/Icons/Customization/Missing.png"
@@ -1402,7 +1402,7 @@
         "Name": "Blood Amber",
         "Description": "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the key's aura reading ability.<br><li>Reveals the Killer's aura within a <b>32 meter</b> range.</li><li><b>Increases</b> the Key's energy usage by <b>100%</b>.</li>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_bloodAmber.png"
@@ -1418,7 +1418,7 @@
         "Name": "Milky Glass",
         "Description": "This opaque piece of glass emits a dull vibrating noise. When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channeling The Fog's energy into the glass.<br><li>Do not lose the Key when unlocking the Hatch, lose this add-on instead.</li>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_milkyGlass.png"
@@ -1434,7 +1434,7 @@
         "Name": "Weaved Ring",
         "Description": "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times.<br><li>Do not lose the Key on death, lose this add-on instead.</li>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_weavedRing.png"
@@ -1466,7 +1466,7 @@
         "Name": "Unique Wedding Ring",
         "Description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <li>Reveals the <b>Obsession's aura</b> at all times, without the need to channel the Key's energy.</li><li><b>Decreases</b> your chances to be The Killer\u2019s Obsession.</li>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_uniqueRing.png"
@@ -1526,7 +1526,7 @@
         "Name": "Crystal Bead",
         "Description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.<br><li>Every Survivor sees the aura generated by the Map when the owner activates it.</li>",
         "Role": "None",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_beadCrystal.png"
@@ -1734,7 +1734,7 @@
         "Name": "Styptic Agent",
         "Description": "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Styptic Agent.</li><li>When the <i>Styptic Agent</i> is used on an injured Survivor, they gain <b>Endurance</b> for <b>8 seconds</b>.</li><li>Consumes the Med-kit on use.</li><br><span class=\"ReminderText\">Endurance prevents a Survivor from being downed, inflicting Deep Wound instead.<br>Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
         "Role": "Camper",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_stypticAgent.png"
@@ -1753,7 +1753,7 @@
         "Name": "Anti-Hemorrhagic Syringe",
         "Description": "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds.<br><li>Press the <i>Secondary Action</i> button while healing with the Med-kit to use the Anti-Hemorrhagic Syringe.</li><li>The affected Survivor will gain a health state <b>16 seconds</b> after use.</li><li>The time required is modified by perks, items and add-ons that affect <i>Healing Speeds</i>.</li><li>This effect is canceled when the affected Survivor changes health state or is picked up.</li><li>Consumes the Med-kit on use.</li>",
         "Role": "Camper",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_syringe.png"
@@ -1851,7 +1851,7 @@
         "Name": "Disfigured Ear",
         "Description": "The cannibal village deaf boy's ear. Deformed due to several hits to the head. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li>Survivors who trigger a <b>Phantasm Trap</b> will be deafened for <b>6 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_disfiguredEar.png"
@@ -1893,7 +1893,7 @@
         "Name": "Granma's Heart",
         "Description": "The cold heart of the cannibal village elder. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li><b>Decreases</b> Terror Radius to <b>0 meters</b> when a Survivor triggers a <b>Phantasm Trap</b>.</li><li><b>Increases</b> Mud Phantasms' Terror Radius by <b>16 meters</b>.</li><br><span class=\"FlavorText\">\"Bring me another slice of the girl.\" -Grandma</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_granmasHeart.png"
@@ -1921,7 +1921,7 @@
         "Name": "Mint Rag",
         "Description": "A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li><b>The Hag</b> can teleport to any <b>Phantasm Trap</b> in the level.</li><li><b>Phantasm Trap</b> teleport gains a cooldown of <b>15 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_mintRag.png"
@@ -1977,7 +1977,7 @@
         "Name": "Rusty Shackles",
         "Description": "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li>Triggered <b>Phantasm Traps</b> give no indication of being triggered to Survivors and do not spawn a Mud Phantasm.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_rustyShackles.png"
@@ -1991,7 +1991,7 @@
         "Name": "Scarred Hand",
         "Description": "The cut up, severed hand of the cannibal village butcher. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li>Mud Phantasms become solid and will block Survivors.</li><li>Removes the ability to teleport to traps.</li><li>Grants <b>300%</b> bonus Deviousness Bloodpoints.</li><br><span class=\"FlavorText\">\"\u2026\" -The Butcher</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_scarredHand.png"
@@ -2019,7 +2019,7 @@
         "Name": "Waterlogged Shoe",
         "Description": "A child's shoe, long lost in the bog's waters. The trapped life essence within unlocks tremendous potential in The Hag's power.<br><li>Survivors in the trigger zone of a triggered <b>Phantasm Trap</b> are <b>Hindered</b> by <b>9%</b>.</li><li><b>Increases</b> movement speed by <b>4.5%</b>.</li><li>Removes the ability to teleport to traps.</li><br><span class = \"ReminderText\">Hindered reduces Survivor movement speed.</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC3/iconAddon_waterloggedShoe.png"
@@ -2180,7 +2180,7 @@
         "Name": "Brand New Part",
         "Description": "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory.<br><li><b>Toolbox Repair</b> action is replaced with <b>Install Brand New Part</b>.</li><li>Installing the <i>Brand New Part</i> will automatically repair <b>15%</b> of a generator over <b>5 seconds</b>.</li><li>During the installation, you will be faced with <b>2 difficult Skill Checks</b>.</li><li>Successfully hitting a Skill Check will result in an additional <b>5% generator repair progress</b>, up to a total of <b>25% generator repair progress</b>.</li><li><i>This add-on is consumed after use.</i></li>",
         "Role": "Camper",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_brandNewPart.png"
@@ -2411,7 +2411,7 @@
         "Name": "Forest Stew",
         "Description": "A stew of foraged vegetables mixed with moss and bark to create a false sense of fullness.<br><li><b>Increases</b> <b>Victor's</b> movement speed by <b>0.6 m/s</b>.</li><br><span class=\"FlavorText\">\"Eat... eat, child. You\u2019ll feel better when it\u2019s down.\" \u2014 Madeleine Deshayes</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_forestStew.png"
@@ -2425,7 +2425,7 @@
         "Name": "Spinning Top",
         "Description": "A wooden top shared between The Twins, though Victor wanted it for his own. He learned he could get what he wanted if he clung tightly and screamed.<br><li><b>Victor's</b> <b>Pounce</b> causes Survivors to drop their carried items.</li><br><span class=\"FlavorText\">\"Hush... hush... it is yours then.\" \u2014 Charlotte Deshayes</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_spinningTop.png"
@@ -2439,7 +2439,7 @@
         "Name": "Drop of Perfume",
         "Description": "One of the few luxuries Madeleine escaped her past life with. It has a pleasant, disarming scent.<br><li>Survivors in <b>Victor's</b> alert range while he is dormant are inflicted with <b>Oblivious</b>.</li><br><span class = \"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class=\"FlavorText\">\"Beware the deceit of witches, for they exploit the goodness in men\u2019s hearts.\" \u2014 A History of Witches and Demons (1602)</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_dropOfPerfume.png"
@@ -2453,7 +2453,7 @@
         "Name": "Victor\u2019s Soldier",
         "Description": "A toy soldier Victor clung to when scared. Something about it evoked jealousy in Charlotte.<br><li>Crushing <b>Victor</b> while he is dormant reveals the Survivor's aura for <b>6 seconds</b>.</li><br><span class=\"FlavorText\">\"Kch--kch\u2014k\u2019ull bawd mennn...\" \u2014 Victor Deshayes</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_victorsSoldier.png"
@@ -2467,7 +2467,7 @@
         "Name": "Silencing Cloth",
         "Description": "A coarse strip of cloth that a five-year-old Charlotte would put in her mouth. Stopped her from screaming when witch hunters were nearby.<br><li><b>Charlotte</b> gains <b>Undetectable</b> for <b>20 seconds</b> after waking from her dormant state.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red stain.</span><br><br><span class=\"FlavorText\">\"I don\u2019t like this game anymore, Mother...\" \u2014 Charlotte Deshayes</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_silencingCloth.png"
@@ -2481,7 +2481,7 @@
         "Name": "Iridescent Pendant",
         "Description": "A glass-like pendant molded from The Fog itself. There\u2019s a portrait of Madeleine Deshayes upon it, though something about her depiction seems unsettling.<br><li>Crushing <b>Victor</b> while he is dormant inflicts <b>Exposed</b> for <b>45 seconds</b>.</li><br><span class = \"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\"Your binding is no curse, my loves. It is your strength to draw upon.\" \u2014 Madeleine Deshayes</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Aurora/iconAddon_iridescentPendant.png"
@@ -2565,7 +2565,7 @@
         "Name": "Depth Gauge Rake",
         "Description": "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\".<br><li>Grants <b>1</b> additional Chainsaw charge.</li><li><b>Increases</b> time required to charge the Chainsaw by <b>22%</b>.</li><li><b>Decreases</b> <b>Chainsaw Sweep</b> movement speed by <b>2%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_depthGaugeRake.png"
@@ -2677,7 +2677,7 @@
         "Name": "Carburetor Tuning Guide",
         "Description": "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor.<br><li>Automatically consume all charges when triggering a <b>Chainsaw Sweep</b>.</li><li><b>Increases Chainsaw Sweep</b> duration by <b>0.5 seconds</b>.</li><li><b>Decreases Chainsaw Sweep</b> movement speed by <b>2%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_carburetorTuningGuide.png"
@@ -2691,7 +2691,7 @@
         "Name": "Light Chassis",
         "Description": "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle.<br><li>While revving, see the auras of Survivors within <b>8 meters</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_lightChassis.png"
@@ -2719,7 +2719,7 @@
         "Name": "Rusted Chain",
         "Description": "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal.<br><li>Chainsaw hits inflict <b>Broken</b> for <b>90 seconds</b>.</li><br><span class = \"ReminderText\">Broken prevents Survivors from being healed.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_chainsRusted.png"
@@ -2733,7 +2733,7 @@
         "Name": "Award-Winning Chili",
         "Description": "A big bowl of spicy chili made famous thanks to prime meat.<br><li><b>Increases</b> maximum <b>Chainsaw Sweep</b> duration by <b>0.5 seconds</b> per charge spent.</li><br><span class=\"FlavorText\">\"The secret's in the meat.\" -Drayton Sawyer</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Cannibal/iconAddon_awardwinningChili.png"
@@ -2761,7 +2761,7 @@
         "Name": "Iridescent Flesh",
         "Description": "A thin slice of smooth, young flesh. The veins shimmer with luminescent glow, as if life still flows within.<br><li>Hitting a Survivor with the Chainsaw replenishes its charges.</li><li>Limits the maximum tantrum duration to <b>5 seconds</b>.</li><br><span class=\"FlavorText\">\"There are moments when we cannot believe that what is happening is really true. Pinch yourself and you may find out that it is.\" \u2014 Pam Jones</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Cannibal/iconAddon_iridescentFlesh.png"
@@ -2971,7 +2971,7 @@
         "Name": "Diamond Cufflinks",
         "Description": "Cufflinks gouged into the eyes of a sasaeng fan who made the mistake of stalking Ji-Woon. Rubbing off the blood, there\u2019s so much to be seen in the glitter.<br><li>Reveals Survivor auras for <b>6 seconds</b> when their Laceration reaches one Blade hit from maximum.</li><br><span class=\"FlavorText\">\u201cShhh... You don\u2019t have to see your blood anymore.\u201d \u2014Ji-Woon Hak</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_DiamondCufflinks.png"
@@ -2985,7 +2985,7 @@
         "Name": "Edge of Revival Album",
         "Description": "The Trickster\u2019s debut album. The coarse and vicious tone was met with a mixed reaction from fans despite critical acclaim.<br><li>Blades shatter when hitting the environment, dealing <b>50%</b> Laceration to nearby Survivors.</li><br><span class=\"FlavorText\">\u201cYour whisper on me<br>Warm as can be<br>Burning each breath<br>Till I can\u2019t breathe\u201d<br>\u2014 The Trickster\u2019s \u201cWhispers of Warmth\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_EdgeOfRevivalAlbum.png"
@@ -2999,7 +2999,7 @@
         "Name": "Trick Blades",
         "Description": "Specialty blades that are only seen as faulty by those who lack imagination. A young Ji-Woon dazzled spectators with the tricks he performed.<br><li>Blades ricochet off the environment twice.</li><li>Ricochet hits grant bonus <b>Bloodpoints</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_TrickBlades.png"
@@ -3013,7 +3013,7 @@
         "Name": "Cut Thru U Single",
         "Description": "The first single released by NO SPIN after Ji-Woon joined their ranks. Scored an all-kill on the Korean charts.<br><li>Blades pierce through Survivors.</li><li>Subsequent Survivors hit by the same Blade receive <b>50% Laceration</b>.</li><br><span class=\"FlavorText\">\u201cCan't stop this love<br>That's tearing your heart<br>Wherever you go<br>I will cut you apart\u201d<br>\u2014 NO SPIN\u2019s \u201cCut Thru U\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_CutThruUsingle.png"
@@ -3027,7 +3027,7 @@
         "Name": "Death Throes Compilation",
         "Description": "A collection of the final sounds from Ji-Woon's victims, adapted to a vinyl record. Terrifying and emotionally raw.<br><li>When <b>Main Event</b> ends, <b>The Trickster's</b> Blades are replenished.</li><br><span class=\"FlavorText\">\u201cPlease, no... don\u2019t make it hurt... I can\u2019t... I...\u201d \u2014Unidentified Voice</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_DeathThroesCompilation.png"
@@ -3041,7 +3041,7 @@
         "Name": "Iridescent Photocard",
         "Description": "A glass-like photo molded from The Fog itself. Ji-Woon's eyes shimmer holographically on his grinning face.<br><li>When a Survivor\u2019s Laceration Meter is two or less Blade hits away from the maximum, they are inflicted with <b>Exposed</b>.</li><br><span class = \"ReminderText\">Exposed survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\u201cIt\u2019s okay, scream my name. Let me hear everything the pain awakens...\u201d \u2014Ji-Woon Hak</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Comet/icons_Addon_IridescentPhotocard.png"
@@ -3097,7 +3097,7 @@
         "Name": "Fragrant Tuft of Hair",
         "Description": "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance.<br><li>Unlimited duration of <b>Evil Within III</b>.</li><li><b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>200%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_tuftOfHair.png"
@@ -3209,7 +3209,7 @@
         "Name": "Judith's Tombstone",
         "Description": "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers.<br><li>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.</li><li><b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>200%</b>.</li><li><b>Decreases</b> movement speed by <b>9%</b> while <b>Evil Within III</b> is active.</li><br><span class=\"FlavorText\">\"Here lies our beloved daughter.\"</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_judithsTombstone.png"
@@ -3223,7 +3223,7 @@
         "Name": "Lock of Hair",
         "Description": "A cut lock of blond hair bunched with a black elastic.<br><li><b>Increases</b> the duration of <b>Evil Within III</b> by <b>40 seconds</b>.</li><li><b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> for the first time by <b>100%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_lockOfHair.png"
@@ -3279,7 +3279,7 @@
         "Name": "Scratched Mirror",
         "Description": "A standing portable vanity mirror which has been violently scratched with a sharp metallic object.<br><li><b>Evil Within I</b> reveals Survivors' auras when stalking within a <b>32 meter</b> range.</li><li><b>Evil Within</b> cannot progress past <b>TIER I</b>.</li><li>For each Hit score event, score <b>100% Bloodpoints</b> in the Brutality category and an additional <b>200% Bloodpoints</b> in the Deviousness category.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_scratchedMirror.png"
@@ -3307,7 +3307,7 @@
         "Name": "Tombstone Piece",
         "Description": "A fist-sized granite piece taken from a broken tombstone.<br><li>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.</li><li>Killing a Survivor drains the power of <b>Evil Within</b>.</li><li><b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>150%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_tombstonePiece.png"
@@ -3321,7 +3321,7 @@
         "Name": "Vanity Mirror",
         "Description": "A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it.<br><li><b>Evil Within II</b> reveals Survivors' auras when stalking within a <b>16 meter</b> range.</li><li><b>Evil Within</b> cannot progress past <b>TIER II</b>.</li><li>For each Hit score event, grant <b>100% Bloodpoints</b> in the Brutality category and an additional <b>150% Bloodpoints</b> in the Deviousness category.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC2/iconAddon_vanityMirror.png"
@@ -3531,7 +3531,7 @@
         "Name": "\"Order\" - Carter's Notes",
         "Description": "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself. The long, constant stimulus leaves the patient in a state of severe confusion.<br><li><b>Decreases Static Blast</b> cooldown by <b>6 seconds</b>.</li><br>Survivors with <b>Madness</b> suffer from the <i>Affliction of Order</i>:<br><li>Broken pallets may appear to be replaced with illusionary pallets that persist until approached.</li><li>A new illusionary pallet is generated at the location of a random broken pallet every <b>20 seconds</b>.</li><li><b>The Doctor</b> sees the auras of illusionary pallets.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_orderCartersNotes.png"
@@ -3545,7 +3545,7 @@
         "Name": "\"Discipline\" - Carter's Notes",
         "Description": "Project Awakening ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia.<br><li><b>Decreases</b> the detonation delay of <b>Shock Therapy</b> by <b>30%</b>.</li><br>Survivors with <b>Madness</b> suffer from the <i>Affliction of Discipline</i>:<br><li><b>Madness II</b>: While in a chase, Survivors perceive an <i>illusionary Red Stain</i> and <i>Terror Radius</i> as though <b>The Doctor</b> were directly behind them. This effect persists for <b>6 seconds</b> after the chase ends.</li><li><b>Madness III</b>: <i>Illusionary Red Stain</i> and <i>Terror Radius</i> are constantly active.</li><li><b>The Doctor</b> also sees the <i>illusionary Red Stain</i>.</li><br><span class=\"FlavorText\">\"To avoid relapse from our most tenacious subjects, use maximum levels when proceeding with disciplinary actions.\" -H. Carter</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_diciplineCartersNotes.png"
@@ -3559,7 +3559,7 @@
         "Name": "\"Calm\" - Carter's Notes",
         "Description": "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illness. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.<br><li><b>Increases Terror Radius</b> by <b>8 meters</b> while <b>Static Blast</b> is ready.</li><li><b>Decreases Terror Radius</b> by <b>8 meters</b> while <b>Static Blast</b> is on cooldown.</li><br>Survivors with <b>Madness</b> suffer from the <i>Affliction of Calm</i>:<br><li><b>Madness II</b>: Intermittently causes Survivors to hear a distant <i>illusionary Terror Radius</i>.</li><li><b>Madness III</b>: Constantly causes Survivors to hear a distant <i>illusionary Terror Radius</i>.</li><br><span class=\"FlavorText\">\"Higher quality seizures trigger catatonia. At least it gives me <u>peace</u> for the time it lasts.\" -H. Carter</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_calmCartersNotes.png"
@@ -3573,7 +3573,7 @@
         "Name": "\"Restraint\" - Carter's Notes",
         "Description": "An experimental ECT procedure developed within The Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient.<br><li>Reveals Survivors' auras for <b>3 seconds</b> when their <b>Madness</b> level increases.</li><br>Survivors with <b>Madness</b> suffer from the <i>Affliction of Restraint</i>:<br><li><b>Increases</b> the duration of <i>illusionary Doctor hallucinations</i> by <b>6 seconds</b>.</li><li>Allows <b>The Doctor</b> to see the auras of hallucinations at any level of <b>Madness</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_restraintCartersNotes.png"
@@ -3587,7 +3587,7 @@
         "Name": "Iridescent Queen",
         "Description": "A glass-like queen chess piece molded from The Fog itself. It can't be touched without receiving a considerable jolt of electricity.<br><li>All Survivors struck by <b>Shock Therapy</b> or <b>Static Blast</b> acquire a lingering Static Charge. The Static Charge remains with The Survivor(s) until <i>discharged</i>.</li><li>Multiple Survivors struck by the same <b>Shock Therapy</b> or <b>Static Blast</b> that are within <b>4 meters</b> of each other do not acquire a Static Charge.</li><li>Any time a Survivor is within <b>4 meters</b> of another Survivor carrying a Static Charge, the Survivor receives a shock identical to Shock Therapy and the Static Charge is discharged immediately.</li><br><span class=\"FlavorText\">\"Once we have established an effective method of treatment, we can focus on its efficient means of delivery.\" -H. Carter</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_iridescentQueen.png"
@@ -3601,7 +3601,7 @@
         "Name": "Iridescent King",
         "Description": "A glass-like king chess piece molded from The Fog Itself. The Entity's trace reverberating within can break the most powerful minds.<br>Survivors with <b>Madness</b> status effect suffer from the following <i>Afflictions: Calm, Discipline, Order,</i> and <i>Restraint</i>.<li><b>Intermittently</b> causes Survivors to hear a distant <i>illusionary Terror Radius</i>.</li><li>While in a chase, Survivors perceive an <i>illusionary Red Stain</i> and <i>Terror Radiu</i>s as though <b>The Doctor</b> were directly behind them. This effect persists for <b>6 seconds</b> after the chase ends in <b>Madness II</b> and is constantly active in <b>Madness III</b>.</li><li>Broken pallets may appear to be replaced with <i>illusionary pallets</i> that persist until approached. A new <i>illusionary pallets</i> is generated at the location of a random broken pallet every <b>20 seconds</b>.</li><li><b>Increases</b> the duration of <i>illusionary Doctor hallucinations</i> by <b>6 seconds</b>.</li><li><b>The Doctor</b> sees <i>illusionary Red Stains</i> as well as the auras of <i>illusionary Doctors and illusionary pallets</i>.</li><br><span class=\"FlavorText\">\"Gazing in the iridescent glass is plunging oneself into madness\" -Unsigned Notes</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC4/iconAddon_iridescentKing.png"
@@ -3629,7 +3629,7 @@
         "Name": "Begrimed Head",
         "Description": "These Hatchets' heads are stained with a foul substance that afflict anyone it touches with debilities.<br><li>Hit target suffers from the <b>Mangled</b> and <b>Hemorrhage</b> status effects until fully healed.</li><br><span class = \"ReminderText\">Hemorrhage increases blood trails left by injured Survivors.<br>\nMangled increases time required to heal by 25% and lasts until fully healed.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_begrimedHead.png"
@@ -3643,7 +3643,7 @@
         "Name": "Wooden Fox",
         "Description": "Roughly carved, this fox statuette is no more than a few inches. A reminder that stealth and cunning is as effective as raw power.<br><li>Grants <b>Undetectable</b> for <b>30 seconds</b> after reloading.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_woodenFox.png"
@@ -3713,7 +3713,7 @@
         "Name": "Infantry Belt",
         "Description": "A sturdy utility belt pillaged from a soldier. Its multiple leather loops and holsters are useful to transport tools.<br><li>Start with <b>2 extra</b> Hatchets.</li><li><b>Increases</b> maximum carried Hatchet amount by <b>2</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_infantryBelt.png"
@@ -3755,7 +3755,7 @@
         "Name": "Iridescent Head",
         "Description": "A glass-like Hatchet head molded from The Fog Itself. The blade is warm and reverberating with The Entity's power.<br><li>Successful Hatchet hits immediately put healthy Survivors into the dying state.</li><li>Sets maximum number of carried Hatchets to <b>1</b>.</li><br><span class=\"FlavorText\">\"The iridescent glass cuts through flesh and soul.\"</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_iridescentHead.png"
@@ -3839,7 +3839,7 @@
         "Name": "Glowing Concoction",
         "Description": "An otherworldly concoction that faintly glows a foreboding light.<br><li>Reveals the auras of Survivors hit by Hatchets for <b>5 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_glowingConcoction.png"
@@ -3853,7 +3853,7 @@
         "Name": "Soldier's Puttee",
         "Description": "A wrap taken from a dead soldier, it provides protection and support to the ankle and lower leg.<br><li>The Huntress moves <b>4.6 m/s</b> when she has no Hatchets.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/DLC5/iconAddon_soldiersPuttee.png"
@@ -4091,7 +4091,7 @@
         "Name": "NE-\u03b1 Parasite",
         "Description": "A parasite used in the development of Nemesis T-Types, it\u2019s capable of hijacking its host\u2019s brain.<li>Becoming Contaminated inflicts <b>Oblivious</b> for <b>60 seconds</b>.</li><br><span class = \"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_neaParasite.png"
@@ -4105,7 +4105,7 @@
         "Name": "Jill\u2019s Sandwich",
         "Description": "It\u2019s tragically squished and dripping with blood from a recent battle. Despite that, it has a delicious aroma that can\u2019t be missed.<li>Reveals a Survivor's aura for <b>12 seconds</b> after they unlock a Supply Case.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_jillSandwich.png"
@@ -4119,7 +4119,7 @@
         "Name": "Broken Recovery Coin",
         "Description": "A coin depicting a bird framed by a laurel wreath. It\u2019s broken in half.<li>Removes <b>1</b> Supply Case from the trial.</li><br><br><span class=\"FlavorText\">\"This is not how I imagined my first day.\" \u2014Leon S. Kennedy</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_brokenRecoveryCoin.png"
@@ -4133,7 +4133,7 @@
         "Name": "Depleted Ink Ribbon",
         "Description": "Who will save them now? There\u2019s something about this ink ribbon being dry that energizes zombies.<li><b>Decreases</b> zombie respawn time by <b>5 seconds</b>.</li><li><b>Increases</b> zombie movement speed by <b>50%</b>.</li><li>Any zombies destroyed after all generators are repaired will respawn in an exit area.</li><br><br><span class=\"FlavorText\">\"Look, just so you know... this is the last fucking time.\" \u2014Jill Valentine</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_depletedInkRibbon.png"
@@ -4147,7 +4147,7 @@
         "Name": "Shattered S.T.A.R.S. Badge",
         "Description": "A symbol of hope for Raccoon City, utterly destroyed.<li><b>Increases</b> Zombie movement speed by <b>150%</b> for <b>60 seconds</b> after a generator is repaired.</li><br><br><span class=\"FlavorText\">\"S.T.A.R.S...\" \u2014Nemesis</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_shatteredStarsBadge.png"
@@ -4161,7 +4161,7 @@
         "Name": "Iridescent Umbrella Badge",
         "Description": "A glass-like badge molded from The Fog itself. It represents a corporation that pushed far beyond ethical and humane science.<li>Survivors are inflicted with <b>Exposed</b> for <b>60 seconds</b> when using a Vaccine.</li><br><span class = \"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\"Commitment, honesty, integrity. These are the core values that create the foundation of Umbrella Corp.\" \u2014Dr. Matt Gorkis</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Eclipse/iconAddon_iridescentUmbrellaBadge.png"
@@ -4259,7 +4259,7 @@
         "Name": "\"Z\" Block",
         "Description": "A deeply scratched and burnt wooden block which only recognizable feature is the letter \"Z\".<br><li>Triggering <b>Dream Snares</b> or <b>Dream Pallets</b> inflicts <b>Hemorrhage</b> for <b>60 seconds</b>.</li><li>If the Survivor is healthy, they bleed for the duration of the <b>Hemorrhage</b> effect.</li><br><span class = \"ReminderText\">Hemorrhage increases blood trails left by injured Survivors.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_zBlock.png"
@@ -4357,7 +4357,7 @@
         "Name": "Class Photo",
         "Description": "A large photograph taken at Badham preschool showing the cheerful class of 94-95.<br><li>Channeling <b>Dream Projection</b> can no longer be cancelled.</li><li>All generators will spew blood while <b>The Nightmare</b> channels <b>Dream Projection</b>.</li><li><b>The Nightmare</b>'s projection will not appear when using <b>Dream Projection.</b></li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_classPhoto.png"
@@ -4371,7 +4371,7 @@
         "Name": "Pill Bottle",
         "Description": "An empty pill bottle which once contained a medicine called Zoneral.<br><li>Survivors will see <b>The Nightmare</b> intermittently at a reduced distance of <b>12 meters</b> to <b>24 meters</b>.</li><li><b>The Nightmare</b> is invisible to Survivors beyond <b>24 meters</b>.</li><li><b>The Nightmare</b> is invisible to awake Survivors while carrying a Survivor.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_pillBottle.png"
@@ -4385,7 +4385,7 @@
         "Name": "Red Paint Brush",
         "Description": "A large paint brush, wet with crimson paint.<li>All Survivors start the trial in the Dream World.</li><li>Failed Skill Checks do not wake up Survivors in the Dream World.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_redPaintBrush.png"
@@ -4399,7 +4399,7 @@
         "Name": "Black Box",
         "Description": "A black cardboard box filled with photographs.<br>While Survivors are in the Dream World:<br><li>Recently-opened exit gates are blocked for <b>15 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_blackBox.png"
@@ -4413,7 +4413,7 @@
         "Name": "Swing Chains",
         "Description": "Rusty but sturdy chains used to securely attach a swing seat.<br>While Survivors are in the Dream World:<br><li>The sounds of their footsteps are <b>50% louder</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/England/iconAddon_swingChains.png"
@@ -4511,7 +4511,7 @@
         "Name": "Video Tape",
         "Description": "A recording of Jigsaw, explaining the game's rules to Amanda. Reminiscing about her past-self hardens her determination.<br><li>Survivors begin the trial with Reverse Bear Traps installed.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_videoTape.png"
@@ -4609,7 +4609,7 @@
         "Name": "Crate of Gears",
         "Description": "This collection of mechanical parts allows the creation of extra-challenging Jigsaw Boxes and Reverse Bear Traps that are easier to install.<br><li><b>Increases</b> Reverse Bear Trap setting speed by <b>50%</b>.</li><li><b>Increases</b> time required to search a Jigsaw Box by <b>33%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_crateOfGears.png"
@@ -4623,7 +4623,7 @@
         "Name": "Jigsaw's Sketch",
         "Description": "A disturbing, yet brilliant, trap design sketched in details on a sheet of paper.<br><li><b>Increases</b> available Reverse Bear Traps by <b>1</b>.</li><li>When a Survivor with a Reverse Bear Trap is working on a generator, that generator's aura is revealed to you.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_jigsawsSketch.png"
@@ -4651,7 +4651,7 @@
         "Name": "Amanda's Letter",
         "Description": "A blackmailing letter for the attention of Amanda. Fills the reader with rage and focus.<br><li>While crouched, reveals auras of Survivors within <b>16 meters</b>.</li><li><b>Decreases</b> available Reverse Bear Traps by <b>2</b>.</li><br><span class=\"FlavorText\">\"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it.\" -Amanda's Letter</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_amandasLetter.png"
@@ -4665,7 +4665,7 @@
         "Name": "Tampered Timer",
         "Description": "A timer that has been fiddled with. A spring in the mechanism forces the gears to turn faster.<br><li><b>Decreases</b> the Reverse Bear Trap death timer by <b>20 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_tamperedTimer.png"
@@ -4707,7 +4707,7 @@
         "Name": "Amanda's Secret",
         "Description": "A black metal box containing a knife and various medical supplies, such as bandages and compresses. Deep cuts reduce stress and awaken the senses.<br><li><b>Disables</b> The Pig's ability to see Jigsaw Boxes' auras.</li><li>Gain a notification when a Survivor removes a Reverse Bear Trap.</li><li>Auras of Survivors removing a Reverse Bear Trap are revealed to you for <b>6 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Finland/iconAddon_amandasSecret.png"
@@ -4931,7 +4931,7 @@
         "Name": "Greasy Black Lens",
         "Description": "A lens from the sunglasses of an obese cenobite whose fleshy rolls droop down his face and neck.<br><li>Survivors hit by a possessed chain are revealed for <b>6 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_greasyBlackLens.png"
@@ -4945,7 +4945,7 @@
         "Name": "Original Pain",
         "Description": "The first pin pushed into Pinhead\u2019s skull. Such pleasure and pain.<br><li>Injured Survivors who break free from a possessed chain suffer from <b>Deep Wound</b>.</li><br><span class = \"ReminderText\">Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span><br><br><span class=\"FlavorText\">\u201cNo tears, please. It\u2019s a waste of good suffering.\u201d \u2014Pinhead</span",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_originalPain.png"
@@ -4959,7 +4959,7 @@
         "Name": "Impaling Wire\t",
         "Description": "A wire that pierces the cheeks of a cenobite, while revealing the gaping wound on her neck.<br><li>When a Survivor uses the environment to break a chain, an additional chain will target them.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_impalingWire.png"
@@ -4973,7 +4973,7 @@
         "Name": "Chatterer\u2019s Tooth",
         "Description": "A fragment from a cenobite whose mouth chatters endlessly. This tooth, having broken from his jaw, is finally silent.<br><li>Reveal the Lament Configuration.</li><li>Picking up the Lament Configuration deactivates Chain Hunts.</li><li>Gain the <b>Undetectable</b> status effect for <b>25 seconds</b> after picking up the Lament Configuration.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius and Red Stain.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_chatterersTooth.png"
@@ -4987,7 +4987,7 @@
         "Name": "Engineer\u2019s Fang",
         "Description": "A sharp tooth from the maw of a fleshy, scorpion-like creature, known to accompany cenobites on their grim undertakings.<br><li>Possessed chains injure healthy Survivors, but do not bind them or spawn additional chains.</li><li><b>Increases</b> the time to close the gateway after hitting a healthy Survivor with a possessed chain by <b>50%</b>.</li><li>When hitting an injured Survivor with a possessed chain, only 1 additional chain will spawn.</li><br><span class=\"FlavorText\">\"We have such sights to show you.\" \u2014Pinhead</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_engineersFang.png"
@@ -5001,7 +5001,7 @@
         "Name": "Iridescent Lament Configuration",
         "Description": "A glass-like puzzle box molded from The Fog itself. This replica differs from the original, providing altogether new powers.<br><li>When a Chain Hunt is inactive, Survivors beyond <b>24 meters</b> of the Lament Configuration cannot see its aura.</li><br><span class=\"FlavorText\">\u201cYou opened it. We came.\u201d \u2014Pinhead</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Gemini/iconAddon_iridescentLamentConfiguration.png"
@@ -5211,7 +5211,7 @@
         "Name": "Garish Makeup Kit",
         "Description": "Some for the face and some for the Antidote. The unknown compound intensifies the Antidote's effects.<br><li><b>Increases</b> the duration of Invigoration by <b>2 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_garishMakeupKit.png"
@@ -5225,7 +5225,7 @@
         "Name": "Cheap Gin Bottle",
         "Description": "Along with a hell of a headache, the only remnant of a good time, done cheap.<br><li>Start with <b>2 extra</b> bottles. </li><li>Increases maximum carried bottles amount by <b>2</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_cheapGinBottle.png"
@@ -5239,7 +5239,7 @@
         "Name": "Ether 15 vol%",
         "Description": "A highly volatile organic compound, toxic at this concentration.<br><li><b>Increases</b> the duration of Intoxication by <b>1 second</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_ether15.png"
@@ -5253,7 +5253,7 @@
         "Name": "Cigar Box",
         "Description": "A grim and incomplete collection of fingers. Fills The Clown with longing and focuses his chemical crafting abilities.<br><li>While <b>The Clown</b> or a Survivor is Invigorated, they see all other Survivor and Killer auras within 16 meters.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_cigarBox.png"
@@ -5267,7 +5267,7 @@
         "Name": "Tattoo's Middle Finger",
         "Description": "The prized middle finger of a large tattooed man. Has a faint taste of machinery oil.<br><li>Auras of Intoxicated or Invigorated Survivors are revealed to you for <b>6 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_tattoosMiddleFinger.png"
@@ -5295,7 +5295,7 @@
         "Name": "Redhead's Pinky Finger",
         "Description": "The prized pinky of a redhead. Faintly fragrant. Tastes of potpourri and varnish.<br><li>Direct hits by a bottle of <b>Afterpiece Tonic</b> inflict <b>Exposed</b> until Intoxication ends.</li><li>Start with <b>2 fewer</b> bottles. </li><li><b>Decreases</b> maximum carried bottles amount by <b>2</b>. </li><br><span class = \"ReminderText\">Exposed Survivors will be downed by basic attacks even if uninjured.</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Guam/iconAddon_redheadsPinkyFinger.png"
@@ -5547,7 +5547,7 @@
         "Name": "Yakuyoke Amulet",
         "Description": "A powerful talisman to protect your endeavors from being hindered by suspicious circumstances.<br><li><b>Increases Yamaoka's Haunting</b> duration by <b>70%</b>.</li><li><b>Decreases Yamaoka's Haunting</b> movement speed by <b>15%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Haiti/iconAddon_yakuyokeAmulet.png"
@@ -5561,7 +5561,7 @@
         "Name": "Dried Cherry Blossom",
         "Description": "A crumbling, dried cherry flower. Once the symbol of mortality.<br><li>Survivors trigger Killer Instinct when they come within <b>4 meters</b> of <b>The Spirit</b> while she is phasing.</li><li>Scratch marks are no longer visible while using <b>Yamaoka\u2019s Haunting</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Haiti/iconAddon_driedCherryBlossom.png"
@@ -5575,7 +5575,7 @@
         "Name": "Furin",
         "Description": "Warm summer breeze chimes the little bell hanging from the balcony ceiling.<br><li>The phasing sound is heard by all Survivors.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Hubble/iconAddon_furin.png"
@@ -5589,7 +5589,7 @@
         "Name": "Wakizashi Saya",
         "Description": "The scabbard of an ancestral blade. Once crafted for the Yamaoka family.<br><li><b>During Yamaoka's Haunting</b>, use the <i>Active Ability Button</i> to return to the husk and end the haunting.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Haiti/iconAddon_wakizashiSaya.png"
@@ -5603,7 +5603,7 @@
         "Name": "Mother-Daughter Ring",
         "Description": "A silver ring engraved with \u201cfor my precious daughter.\u201d<br><li><b>Increases Yamaoka's Haunting</b> movement speed by <b>40%</b>.</li><li>Scratch marks are no longer visible while using <b>Yamaoka\u2019s Haunting</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Haiti/iconAddon_motherDaughterRing.png"
@@ -5617,7 +5617,7 @@
         "Name": "Kintsugi Teacup",
         "Description": "Cup mended and lacquered with powdered gold. Both the breakage and repair are part the cup.<br><li>Instantly recharges <b>Yamaoka's Haunting</b> after breaking a pallet or wall.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Hubble/iconAddon_kintsugiTeacup.png"
@@ -5827,7 +5827,7 @@
         "Name": "Matias' Baby Shoes",
         "Description": "A grieving reminder to Carmina that Matias would be with her, always watching. <br><li>Survivors within <b>5 meters</b> of an idle <b>Dire Crow</b> have their auras revealed for <b>3 seconds</b>.</li><br><span class=\"FlavorText\">\"See you soon, Matias.\" \u2014Carmina Mora </span>\n\n",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_JacobsBabyShoes.png"
@@ -5841,7 +5841,7 @@
         "Name": "Severed Tongue",
         "Description": "Carmina's tongue, cut from her mouth shortly before her death. The sight instills rage not just in her, but in her crows.<br><li><b>Decreases</b> the length of time <b>The Artist's</b> movement slows when <b>Dire Crows</b> take flight by <b>0.5 seconds</b>.</li><br><span class=\"FlavorText\">\"How are you going to tell poems now?\"\u2014Hooded Man </span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_SeveredTongue.png"
@@ -5855,7 +5855,7 @@
         "Name": "Garden of Rot",
         "Description": "A nude self-portrait in which Carmina depicts a rotting darkness growing outwards from within.<br><li>When a Survivor affected by <b>Dire Crows</b> completes the repel action, they are afflicted by the <b>Exposed</b> status effect for <b>4 seconds</b>.</li><br><span class=\"ReminderText\">Exposed Survivors are downed by basic attacks, even if uninjured.</span><br><br><span class=\"FlavorText\">\"I see no salvation in the rot.\"\u2014Carmina Mora</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_GardenofRot.png"
@@ -5869,7 +5869,7 @@
         "Name": "Ink Egg",
         "Description": "An unusual egg that seems to be nothing but a ball of semi-solid ink.<br><li><b>Increases</b> the maximum capacity of <b>Dire Crows</b> by <b>1</b>.</li><li><b>Decreases</b> the time <b>Dire Crows</b> stay idle before disintegrating by <b>4 seconds</b>.</li><br><span class=\"FlavorText\">\"Perhaps, covered in darkness as I was, they saw me as one of their own.\" \u2014Carmina Mora</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_InkEgg.png"
@@ -5883,7 +5883,7 @@
         "Name": "Severed Hands",
         "Description": "Carmina's severed hands, cut from her arms shortly before her death. The sight brings sheer fury to her and her protectors.<br><li>Any Survivors near a Survivor being swarmed by <b>Dire Crows</b> will also be swarmed.</li><br><span class=\"FlavorText\">\"How are you going to paint now?\" \u2014Hooded Man </span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_SeveredHands.png"
@@ -5897,7 +5897,7 @@
         "Name": "Iridescent Feather",
         "Description": "A glass-like feather molded from The Fog itself. Simple as it may be, it's a symbol of those who watch over Carmina. <br><li><b>The Artist</b> gains the <b>Undetectable</b> status effect when <b>Birds of Torment</b> is in cooldown and she holds no <b>Dire Crows</b>.</li><li><b>Decreases</b> the maximum capacity of <b>Dire Crows</b> by <b>1</b>.</li><br><span class=\"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\"They saved me when I couldn't save myself.\" \u2014Carmina Mora </span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ion/iconAddon_IridescentFeather.png"
@@ -6107,7 +6107,7 @@
         "Name": "Filthy Blade",
         "Description": "This blade is stained with foul spots of blood and grime that make injuries particularly difficult to mend.<br><li><b>Increases</b> time required for Survivors to mend by <b>2.5 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_filthyBlade.png"
@@ -6121,7 +6121,7 @@
         "Name": "Frank's Mix Tape",
         "Description": "Never go on a kill mission without your tunes. A track list of massive distortion and loud percussion that stabs at your eardrums.<br><li>Hitting a Survivor with <b>Deep Wound</b> while in <b>Feral Frenzy decreases</b> the <b>Deep Wound</b> timer by <b>5 seconds</b>.</li><br><span class = \"ReminderText\">Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_franksMixtape.png"
@@ -6135,7 +6135,7 @@
         "Name": "Cold Dirt",
         "Description": "A handful of dirt collected from the janitor's final resting place. It is unnaturally cold.<br><li><b>Decreases Feral Frenzy</b> cooldown by <b>0.6 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_coldDirt.png"
@@ -6149,7 +6149,7 @@
         "Name": "Stab Wounds Study",
         "Description": "A printed medical article stolen from Ormond's public library vulgarizing a study on lesions and stab wounds.<br><li><b>Decreases</b> the <b>Deep Wound</b> timer of all Survivors by <b>5 seconds</b>.</li><br><span class = \"ReminderText\">Deep Wound will put a Survivor in the dying state unless it is mended before the timer runs out.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_stabWoundsStudy.png"
@@ -6163,7 +6163,7 @@
         "Name": "Fuming Mix Tape",
         "Description": "Dark beats, violent shreds and unfathomable vocals from another world fill the mind with a vibrating sixth sense.<br><li>While using <b>Feral Frenzy</b>, the repair progress of generators can be determined by the intensity of their auras.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_fumingMixtape.png"
@@ -6177,7 +6177,7 @@
         "Name": "Iridescent Button",
         "Description": "A glass-like button molded from The Fog that captures The Legion\u2019s likeness. The surface is warm and reverberating with The Entity's power.<br><br>During <b>Feral Frenzy</b>:<br><li>Your Terror Radius affects the entire map.</li><li>Any pallets you vault are immediately broken.</li><br>This effect lasts until the power gauge is depleted.<br><br><span class=\"FlavorText\">\u201cThe youth consumed by the iridescent glass magnifies and widens the reach of The Entity.\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kenya/iconAddon_iridescentButton.png"
@@ -6387,7 +6387,7 @@
         "Name": "VCR",
         "Description": "The original VCR that played Sadako's tape. It is still warm to the touch.<br><li>All TVs play the <b>Projection</b>\u00a0effects when The Onry\u014d <b>Projects</b> to a TV.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_VCR.png"
@@ -6401,7 +6401,7 @@
         "Name": "Distorted Photo",
         "Description": "Those who have watched the tape find all photos of them distorted, a reminder of their impending doom.<br><li>Survivors that witness <b>Manifestation</b> from within <b>16 meters</b> scream, revealing their location for <b>4 seconds</b>.</li><br><span class=\"FlavorText\">\"Why is it only you were saved?\" \u2014Sadako Yamamura</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_DisortedPhoto.png"
@@ -6415,7 +6415,7 @@
         "Name": "Telephone",
         "Description": "After watching the video, victims receive a phone call. They are frozen in fear as they realize they have seven days to live.<br><li><b>Manifestation</b> afflicts Survivors within <b>7 meters</b> with the <b>Hindered</b> status effect for <b>3 seconds</b>.</li><br><span class = \"ReminderText\"><b>Hindered</b> reduces Survivor movement speed.</span><br><span class=\"FlavorText\">\"I saw a weird video the other day... after it ended, someone called us. Some kind of prank call.\" \u2014Tomoko Oishi</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_Telephone.png"
@@ -6429,7 +6429,7 @@
         "Name": "Tape Editing Deck",
         "Description": "The editing deck used by Reiko and Ryuji to analyze and copy the tape. Copying and sharing the tape is the only way to survive the curse.<br><li>Each Survivor starts the trial with a Tape in their possession, and their target TV is the furthest from their location.</li><br><span class=\"FlavorText\">\"Frolic in brine, goblins be thine.\" \u2014Message hidden in Sadako's tape</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_TapeEditingDeck.png"
@@ -6443,7 +6443,7 @@
         "Name": "Remote Control",
         "Description": "A remote for the VCR at the cabin. It allows Sadako to focus on those enemies at a distance.<br><li>After using <b>Projection</b>, reveal the auras of Survivors carrying a Tape within <b>16 meters</b> of any TV for <b>7 seconds</b>.</li><br><span class=\"FlavorText\">\"She killed a man just by willing him dead. That's power of a different order from her mother.\" \u2014Ryuji Takayama</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_RemoteControl.png"
@@ -6457,7 +6457,7 @@
         "Name": "Iridescent Videotape",
         "Description": "The original tape containing Sadako\u2019s curse.<br><li>Hitting a Survivor within <b>8 seconds</b> after <b>Manifesting</b> turns on the last <b>4</b> TVs turned off by <b>Projection</b>.</li> <br><span class=\"FlavorText\">\"That video... It's not of this world. It's Sadako's rage.\" \u2014Ryuji Takayama</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Kepler/iconAddon_IridescentVHStape.png"
@@ -6667,7 +6667,7 @@
         "Name": "Vile Emetic",
         "Description": "A foul-smelling and half-congealed potion of unidentifiable ingredients. Consumed to rapidly induce vomiting. Used to purge evil from the body.<br><li><b>Increases</b> velocity of vomit projectiles by <b>10%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_vileEmetic.png"
@@ -6681,7 +6681,7 @@
         "Name": "Devotee's Amulet",
         "Description": "A bloodstone amulet carved intricately with the effigy of the Babylonian god of mayhem and pestilence. Fills the wearer with boundless devotion.<br><li><b>Increases</b> duration of <b>Corrupt Purge</b> by <b>20 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_devoteesAmulet.png"
@@ -6695,7 +6695,7 @@
         "Name": "Worship Tablet",
         "Description": "A stone tablet adorned with gold showing the drawings and writings of a corrupted incantation used originally to worship forgotten deities.<br><li><b>Increases</b> speed of ingesting corruption at a Pool of Devotion by <b>100%</b>.</li><li><b>Increases</b> movement speed while holding <b>Corrupt Purge</b> by <b>4.5%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_worshipTablet.png"
@@ -6709,7 +6709,7 @@
         "Name": "Severed Toe",
         "Description": "The decaying severed toe of Adiris, weaved on a thread and worn as an amulet around the neck. Radiates with vile power.<br><li><b>Increases</b> infection rate for Survivors who are performing interactions by <b>50%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_severedToe.png"
@@ -6723,7 +6723,7 @@
         "Name": "Black Incense",
         "Description": "A dark paste made of sharp osseous shavings. The inhaling of its foul fumes sharpens the mind's eye.<br><li>Survivors' auras are revealed to you for <b>3 seconds</b> when they vomit.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_blackIncense.png"
@@ -6737,7 +6737,7 @@
         "Name": "Iridescent Seal",
         "Description": "A translucent cylindrical seal molded from The Fog Itself with the effigy of The Plague. Its surface is warm and pulsates with The Entity's power.<br><li><b>Corrupt Purge</b> activates every time a generator is completed.</li><li><b>Decreases</b> duration of <b>Corrupt Purge</b> by <b>20 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Mali/iconAddon_IridescentSeal.png"
@@ -6765,7 +6765,7 @@
         "Name": "Driver's License",
         "Description": "A driver\u2019s license revealing Olsen\u2019s true identity: Danny Johnson.<br><li><b>Decreases</b> the maximum range at which <b>The Ghost Face</b> can be revealed while <b>Night Shroud</b> is active by <b>8 meters</b>.</li><br><span class=\"FlavorText\">\"They all want to know who The Ghost Face is. But what they should ask is, who\u2019s next.\" -The Ghost Face</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_driversLicense.png"
@@ -6891,7 +6891,7 @@
         "Name": "Victim\u2019s Detailed Routine",
         "Description": "A ripped page outlining the weekly routine of Olsen\u2019s first victim in Roseville. Compiling your victim\u2019s habits allows you to anticipate their movements.<br><li><b>Increases</b> duration of Killer Instinct after being revealed by <b>1.5 seconds</b>.</li><li><b>Decreases</b> the maximum range at which <b>The Ghost Face</b> can be revealed while <b>Night Shroud</b> is active by <b>4 meters</b>.</li><br><span class=\"FlavorText\">\u201cI\u2019ve been watching you for a while. I wanted this to be special; the kind of headlines that people don\u2019t forget.\u201d -The Ghost Face</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_victimsDetailedRoutine.png"
@@ -6933,7 +6933,7 @@
         "Name": "Night Vision Monocular",
         "Description": "Night vision lens enabling sharp photos even when shrouded in darkness. Ideal for discreet, impromptu visits late at night.<br><li><b>Decreases</b> time required to Mark a Survivor when not leaning from cover by <b>0.75 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_nightvisionMoncular.png"
@@ -6961,7 +6961,7 @@
         "Name": "Drop-Leg Knife Sheath",
         "Description": "Sheath allowing a full motion range: ideal to inflict quick and powerful wounds while moving freely. Stolen from a patrol officer the night Danny left Philadelphia.<br><li><b>Increases</b> crouched movement speed by <b>8%</b>.</li><br><span class=\"FlavorText\">\u201cGotta get ready like a scout\u2013 without the stupid patches. What I get is much better.\u201d -The Ghost Face</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_dropLegKnifeSheath.png"
@@ -6975,7 +6975,7 @@
         "Name": "Outdoor Security Camera",
         "Description": "A small surveillance camera that filmed Ghost Face breaking into a house on Belleview Road in Northern Roseville. The camera was positioned at the perfect angle to catch a glimpse of Ghost Face without providing any real clues to the police.<br><li>The auras of all Survivors outside of your Terror Radius are revealed for <b>4 seconds</b> when a Marked Survivor is put into the dying state.</li><br><span class=\"FlavorText\">\"An image is worth a thousand words.\u201d \u2013The Ghost Face</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_outdoorSecurityCamera.png"
@@ -7017,7 +7017,7 @@
         "Name": "\u201cGhost Face Caught on Tape\u201d",
         "Description": "Tape obtained by Olsen to write an article that terrorized Roseville.<br><li><b>Decreases</b> time required to Mark a Survivor when leaning from cover by <b>1 second</b>.</li><li><b>Increases</b> time required to Mark a Survivor when not leaning from cover by <b>0.75 seconds</b>.</li><br><span class=\"FlavorText\">\u201cIn this footage, a dark figure is seen entering a house late at night in Northern Roseville, Florida. The police were called the next morning to report a murder in the area. Lock your doors: a killer is in our midst, roaming freely, like a Ghost in the night.\u201d \u2013The Roseville Gazette</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Oman/iconAddon_caughtOnTape.png"
@@ -7227,7 +7227,7 @@
         "Name": "Lifeguard Whistle",
         "Description": "A rusty, metal whistle that once ruled the Hawkins public pool.<br><li>Survivors near activated Portals are indicated by Killer Instinct without having to charge <b>Of the Abyss</b>.</li><br><span class=\"FlavorText\">\u201cEmits a strong electromagnetic field: it must have come into contact with the Upside Down.\u201d - Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_lifeguardWhistle.png"
@@ -7241,7 +7241,7 @@
         "Name": "Vermillion Webcap",
         "Description": "A bright red poisonous mushroom from the Upside Down.<br><li><b>Increases</b> the duration of the <b>Undetectable</b> effect gained when emerging from a Portal by <b>3 seconds</b>.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius and Red Stain.</span><br><br><span class=\"FlavorText\">\"Still experimenting with this specimen, so far our results are inconsistent.\" - Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_vermillionWebcap.png"
@@ -7255,7 +7255,7 @@
         "Name": "Upside Down Resin",
         "Description": "A sticky, flammable sap that fortifies the gateway to the interdimensional tunnels.<li><b>Increases</b> time required for Survivors to seal Portals by <b>40%</b>.</li><br><span class=\"FlavorText\">\u201cA sample taken from a tree that concealed a Portal to another plane. Studies on its effects are inconclusive.\u201d- Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_upsidedownResin.png"
@@ -7269,7 +7269,7 @@
         "Name": "Unknown Egg",
         "Description": "A large, warm egg coated in gruesome webbing.<br><li><b>Decreases</b> the cooldown after traversing the Upside Down by <b>1.5 seconds</b>.</li><br><span class=\"FlavorText\">\u201cA large egg was sighted in the Upside Down, but no sample survived the trip to the lab for proper examination.\u201d - Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_unknownEgg.png"
@@ -7283,7 +7283,7 @@
         "Name": "Leprose Lichen",
         "Description": "A potent lichen that grows like dust on the rocks in the Upside Down.<br><li>Reveals the auras of all Survivors while traversing the Upside Down, and for <b>3 seconds</b> after emerging from a Portal.</li><br><span class=\"FlavorText\">\u201cOne small dose can cause severe hallucinations.\u201d - Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_leproseLichen.png"
@@ -7297,7 +7297,7 @@
         "Name": "Red Moss",
         "Description": "A psychedelic moss that grows on tree barks in the Upside Down.<br><li><b>Increases</b> time required to emerge from a Portal by <b>15%</b>.</li><li><b>Increases</b> the duration of the <b>Undetectable</b> effect gained when emerging from a Portal by <b>8 seconds</b>.</li><li>Emerging from Portals becomes silent.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span><br><br><span class=\"FlavorText\">\u201cConsuming its leaf enhances athletic performance and causes euphoria.\u201d - Hawkins National Laboratory</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Qatar/iconAddon_redMoss.png"
@@ -7507,7 +7507,7 @@
         "Name": "Lion Fang",
         "Description": "A tooth sold from an exotic vendor, it symbolizes power and nobility.<li><b>Increases Blood Fury</b> duration by <b>10 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_lionFang.png"
@@ -7521,7 +7521,7 @@
         "Name": "Splintered Hull",
         "Description": "Fragments of a ship that carried Renjiro Yamaoka. Against all odds, the legendary samurai seemed to survive.<br><li><b>Increases</b> the frequency of Blood Orbs dropped by Survivors by <b>33%</b>.</li><li>Survivors drop an additional Blood Orb when they vault, throw pallets, exit lockers, crouch, or fail a skill check.</li><br><span class=\"FlavorText\">\"To plan subterfuge, begin with a counsel of none.\" -Renjiro's Doctrine 7:9</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_splinteredHull.png"
@@ -7535,7 +7535,7 @@
         "Name": "Tear Soaked Tenugui",
         "Description": "The cloth that Kazan's mother cried into when he left on his pilgrimage to cleanse the samurai.<br><li><b>Decreases Blood Fury</b> consumption when downing a Survivor by <b>4 seconds</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_tearSoakedTenugui.png"
@@ -7549,7 +7549,7 @@
         "Name": "Akito's Crutch",
         "Description": "The crutch used by Kazan's son after falling from a tree. Akito's playmate and her family were punished for the boy's injury.<br><li><b>Increases</b> movement speed of <b>Demon Dash</b> by <b>13%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_akitosCrutch.png"
@@ -7563,7 +7563,7 @@
         "Name": "Iridescent Family Crest",
         "Description": "A crest that denotes its owner as being a part of the Yamaoka family.<br><li>Miss a charged attack during <b>Blood Fury</b> to smash the ground and create a shock wave. Any Survivors within <b>24 meters</b> will scream and reveal their current location to you for <b>4 seconds</b>.</li><br><span class=\"FlavorText\">\"Know who you are so you may shield your heart.\" -Renjiro's Doctrine 11:2</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_IridescentFamilyCrest.png"
@@ -7577,7 +7577,7 @@
         "Name": "Renjiro\u2019s Bloody Glove",
         "Description": "The glove Renjiro held to his sternum following the strike dealt by his son.<br><li>All Survivors can see Blood Orbs at the same distance as you.</li><li>A Survivor's aura is revealed for <b>3 seconds</b> when coming into contact with a Blood Orb.</li><br><span class=\"FlavorText\">\"When all else spills out, cling only to your honor.\" -Renjiro's Doctrine 14:12</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Sweden/iconAddon_renirosBloodyGlove.png"
@@ -7647,7 +7647,7 @@
         "Name": "Torn Bookmark",
         "Description": "A white and pristine piece of ribbon once attached to a sacred book. Serves as the symbol of a dispute.<br><li>Adds <b>1</b> Blink charge.</li><li><b>Increases</b> Blink recharge time by <b>50%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_tornBookmark.png"
@@ -7689,7 +7689,7 @@
         "Name": "Campbell's Last Breath",
         "Description": "A powerful last breath snatched from Crotus Prenn asylum priest Father Campbell. In the hands of The Nurse, it crackles with intensity.<br><li>After reappearing from a fully charged Blink, The Nurse immediately Blinks at half charge in the direction she is currently facing.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_campbellsLastBreath.png"
@@ -7773,7 +7773,7 @@
         "Name": "\"Bad Man's\" Last Breath",
         "Description": "A powerful last breath snatched from Crotus Prenn asylum patient \"the Bad Man.\" In the hands of The Nurse, it jolts with intensity.<br><br><li>Hitting a survivor with a successful Blink attack grants the Nurse <b>Undetectable</b> for <b>16 seconds</b>. This effect may be only triggered once every <b>60 seconds</b>.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius, and Red Stain.</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_badMansLastBreath.png"
@@ -7815,7 +7815,7 @@
         "Name": "Jenner's Last Breath",
         "Description": "A powerful last breath snatched from Crotus Prenn asylum patient Mary Jenner. In the hands of The Nurse, it trembles with intensity.<br><li>After Blinking, allows The Nurse to immediately Blink back to her original position by pressing the <i>Active Ability Button</i>. Must be triggered before The Nurse succumbs to fatigue.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_jennersLastBreath.png"
@@ -7829,7 +7829,7 @@
         "Name": "Kavanagh's Last Breath",
         "Description": "A powerful last breath snatched from Crotus Prenn asylum orderly Harvey Kavanagh. In the hands of The Nurse, it wobbles with intensity.<br><li><b>Increases</b> maximum Blink range by <b>30%</b>.</li><li><b>Increases</b> maximum Blink charge time by <b>30%</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_kavanaghsLastBreath.png"
@@ -7843,7 +7843,7 @@
         "Name": "Matchbox",
         "Description": "A matchbox containing an odd collection of mismatched buttons. Serves as a reminder of a horrible place.<br><li>Removes <b>1</b> Blink charge.</li><li>Increases The Nurse's base movement speed to <b>4.2 m/s</b>.</li>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/iconAddon_matchBox.png"
@@ -8067,7 +8067,7 @@
         "Name": "Bayshore\u2019s Cigar",
         "Description": "A quality cigar, plucked from the jacket of Caleb\u2019s boss while he wailed over the spear lodged in his abdomen.<br><li><b>Decreases</b> the stun duration when Survivors break free by <b>1 second</b>.</li><br><span class=\"FlavorText\">\u201cDo not point that thing at me, you slack-jawed imbecile.\u201d -Henry Bayshore</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_bayshoresCigar.png"
@@ -8081,7 +8081,7 @@
         "Name": "Barbed Wire",
         "Description": "Pliable American made steel lined with sharp barbs. Despite its simplicity, Caleb found it could be wrapped around a spear to increase its viciousness.<br><li><b>Increases</b> Survivor mend time by <b>3.5 seconds</b>.</li><br><span class=\"FlavorText\">\u201cThere won\u2019t be nothing to fear soon. Till then, fear me.\u201d -Caleb Quinn</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_barbedWire.png"
@@ -8095,7 +8095,7 @@
         "Name": "Gold Creek Whiskey",
         "Description": "Warm comfort in a bottle that quelled Caleb\u2019s anger and slowed his step.<br><li><b>Decreases</b> Terror Radius by <b>8 meters</b> while aiming down <b>The Redeemer's</b> sights.</li><br><span class=\"FlavorText\">\u201cA smooth taste for the rugged frontier\u201d -Gold Creek Advertisement, 1876</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_clearCreekWhiskey.png"
@@ -8109,7 +8109,7 @@
         "Name": "Prison Chain",
         "Description": "A thick, heavy chain that once held a steel ball and latched to Caleb\u2019s ankle. It\u2019s been repurposed to hook onto a spear.<br><li><b>Increases</b> time required for a Survivor to break free from a spear by <b>10%</b>.</li><br><span class=\"FlavorText\">\u201cInmates working beyond the prison yard must be affixed with a steel ball of no less than 18 pounds.\u201d -Hellshire Penitentiary Guard Book</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_prisonChain.png"
@@ -8123,7 +8123,7 @@
         "Name": "Hellshire\u00a0Iron",
         "Description": "The Hellshire Gang\u2019s branding iron. Despite folklore, it never made its mark on new initiates, instead having been used to brand particularly quarrelsome bounties.<br><li>When a Survivor is speared, gain <b>Undetectable</b>. The effect persists for <b>10 seconds</b> after the Survivor is no longer speared.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, Terror Radius and Red Stain.</span><br><br><span class=\"FlavorText\">\u201cHellshire Gang: Justice Seekers or Outlaws?\u201d -Glenvale Gazette headline</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_hellshireIron.png"
@@ -8137,7 +8137,7 @@
         "Name": "Iridescent Coin",
         "Description": "A glass-like coin molded from The Fog itself. Payment to the bounty hunter for services rendered.<br><li>Survivors speared from at least <b>12 meters</b> away are inflicted with <b>Exposed</b> for as long as they remain speared.</li><br><span class = \"ReminderText\">Exposed survivors will be downed by basic attacks even if uninjured.</span><br><br><span class=\"FlavorText\">\u201cDeals made in desperation are paid for in madness.\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Ukraine/iconAddon_iridescentCoin.png"
@@ -8347,7 +8347,7 @@
         "Name": "Scarlet Egg\u00a0",
         "Description": "A fresh egg, strikingly red in color. About the size of a quail\u2019s egg.<li><b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>1.5 seconds</b>.</li><br><span class=\"FlavorText\">\"I\u2019ve never been so scared in my whole life! You couldn\u2019t care less about me... could you?\u201d -Maria</span> ",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_scarletEgg.png"
@@ -8361,7 +8361,7 @@
         "Name": "Rust-colored Egg\u00a0",
         "Description": "An old-looking egg, colored reddish orange. About the size of a quail\u2019s egg.<li><b>Rites of Judgment</b> trails inflict <b>Blindness</b> for <b>60 seconds</b>.</li><br><span class = \"ReminderText\">Blindness prevents Survivors from seeing auras.</span><br><br><span class=\"FlavorText\">\u201cJames... You made me happy.\u201d -Mary</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_rustColoredEgg.png"
@@ -8375,7 +8375,7 @@
         "Name": "Lost Memories Book\u00a0",
         "Description": "A book about the history and legends of Silent Hill and the surrounding area.<li><b>Rites of Judgment</b> trails inflict <b>Oblivious</b> for <b>15 seconds</b>.</li><br><span class=\"ReminderText\">Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.</span><br><br><span class=\"FlavorText\">\u201cThey called this place \u2018The Place of the Silent Spirits.\u2019\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_lostMemoriesBook.png"
@@ -8389,7 +8389,7 @@
         "Name": "Crimson Ceremony Book",
         "Description": "A book about an ancient god. Author unknown.<li><b>Rites of Judgment</b> trails inflict <b>Hemorrhage</b> until <i>Torment</i> ends.</li><br><span class = \"ReminderText\">Hemorrhage\u00a0increases blood trails left by injured Survivors.</span><br><br><span class=\"FlavorText\">\u201cSpeak. I am the Crimson One. The lies and the mist are not they, but I.\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_crimsonCeremonyBook.png"
@@ -8403,7 +8403,7 @@
         "Name": "Obsidian Goblet\u00a0",
         "Description": "An ancient looking goblet carved from pure obsidian.<li>Grants <b>Undetectable</b> while standing on a <b>Rites of Judgment</b> trail.</li><br><span class = \"ReminderText\">Undetectable hides the Killer's aura, terror radius, and red stain.</span><Br><br><span class=\"FlavorText\">\u201cForgive me for waking you. But without you, I just can\u2019t go on.\u201d -James Sunderland</span> ",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_obsidianGoblet.png"
@@ -8417,7 +8417,7 @@
         "Name": "Iridescent Seal of Metatron\u00a0",
         "Description": "A talisman with an odd design inscribed on it. The Entity\u2019s influence seems to have altered it.<li>When sending a Survivor to a <b>Cage of Atonement</b>, the auras of all Survivors suffering from <i>Torment</i> are revealed for <b>6 seconds.</b></li><br><span class=\"FlavorText\">\"This magic square, with strong protective and dispelling properties, is called the 'Virun VII Crest' or the 'Seal of Metatron'.\u201d</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Wales/iconAddon_iridescentSeal.png"
@@ -8627,7 +8627,7 @@
         "Name": "Alchemist\u2019s Ring ",
         "Description": "A ring given to chemists graduating from the London School of Medicine.\u00a0It\u2019s a reminder of unrestrained ambition.<br><li>Hitting a Survivor with a <b>Lethal Rush</b> attack will instantly recharge all <b>Rush</b> tokens.</li><br><br><span class=\"FlavorText\">\"The student is accused of grave robbing with the intent of unsanctioned scientific testing.\" \u2014Faculty reprimand of Talbot Grimes, 1838</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_alchemistsRing.png"
@@ -8641,7 +8641,7 @@
         "Name": "Summoning Stone ",
         "Description": "Talbot used this stone to carve what he believed was his research into the opium den\u2019s walls.<br><li>Hitting\u00a0a\u00a0Survivor with a\u00a0<b>Lethal Rush</b> attack\u00a0will call upon\u00a0The Entity to block pallets from being pulled down within a <b>16 meter</b>\u00a0radius of your location for <b>15\u00a0seconds</b>.</li><br><br><span class=\"FlavorText\">\"Death is only the beginning.\"</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_summoningStone.png"
@@ -8655,7 +8655,7 @@
         "Name": "Soul Chemical ",
         "Description": "A chemical squeezed from the pineal gland of a recently deceased Survivor.<br><li>Trigger a <b>difficult</b> skill check for any healing or repairing Survivor within <b>16 meters</b> while Rushing.</li><li>Does not trigger for Survivors in range at the start of the <b>Rush</b>.</li><br><br><span class=\"FlavorText\">\"...suspected to cause\u00a0atypical\u00a0alterations in neural rhythmic activity.\" \u2014Unlabeled mystery school\u00a0text</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_soulChemical.png"
@@ -8669,7 +8669,7 @@
         "Name": "Vigo's Journal ",
         "Description": "The journal of a\u00a0man who claimed to have returned from the Void.\u00a0The knowledge within has\u00a0practical applications.<br><li>Grants <b>Undetectable</b>\u00a0while\u00a0Rushing.</li><br><span class = \"ReminderText\">Undetectable  hides the Killer's aura, terror radius and red stain.</span><br><br><span class=\"FlavorText\">\"In a wasteland of forgotten dreams and endless routine, the man with a way out is God.\" \u2014Talbot Grimes</span>",
         "Role": "Killer",
-        "Rarity": "Very Rare",
+        "Rarity": "VeryRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_vigosJournal.png"
@@ -8683,7 +8683,7 @@
         "Name": "Compound Thirty-Three ",
         "Description": "Talbot\u2019s\u00a0penultimate\u00a0attempt at a serum. Though it did not facilitate his escape, it did have\u00a0powerful\u00a0side effects.<br><li>Any Survivor within\u00a0<b>16\u00a0meters</b>\u00a0of\u00a0a\u00a0Slam\u00a0will be <b>Hindered</b> by <b>3%</b> for <b>3 seconds</b>.</li><li>Slamming pallets or breakable walls will destroy them and stun <b>The Blight</b> for <b>1.5 seconds.</b></li><br><span class = \"ReminderText\">Hindered reduces Survivor movement speed.</span><br><br><span class=\"FlavorText\">\"Time is scarce. Let this be the one...\" \u2014Talbot Grimes</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_compoundThirtyThree.png"
@@ -8697,7 +8697,7 @@
         "Name": "Iridescent Blight Tag",
         "Description": "A glass-like laboratory tag, molded from The Fog itself. Either a gift from The Entity or a cruel jest to tag The Blight as he once did to others.<br><li>While all <b>Rush</b> tokens have been used, a <b>Lethal Rush</b> attack hit will put a Survivor into the Dying State.</li><br><br><span class=\"FlavorText\">\"Progress requires drastic change.\" \u2014Talbot Grimes</span>",
         "Role": "Killer",
-        "Rarity": "Ultra Rare",
+        "Rarity": "UltraRare",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Yemen/iconAddon_iridescentBlightTag.png"
@@ -8709,7 +8709,7 @@
         "Name": "Blight Serum",
         "Description": "A small amount of Compound Thirty-Four, the final serum The Blight worked on before his transformation. Causes extreme mutations in high doses.<br><br><li>You gain <b>1 charge</b> of <i>Blighted Rush</i> that replaces your Killer power until consumed. Press the <i>Power button</i> to initiate a <i>Blighted Rush</i>, allowing you to quickly dash forward.</li><li>You can not attack during a <i>Blighted Rush</i>.</li><li>You gain <b>1 additional charge</b> of <i>Blighted Rush</i> every time you hook a Survivor, up to a maximum of <b>1 charge</b>.</li><li><i>This add-on may have unknown effects on certain Killers.</i></li><li><i>Only playable during the Midnight Grove Event.</i></li>",
         "Role": "Killer",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "CanBeUsedAfterEvent": false,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Zambia/iconAddon_blightedSerum.png"
@@ -8727,7 +8727,7 @@
         "Name": "Broken Bulb",
         "Description": "A damaged bulb that causes a spooky flickering effect.<br><br><li>Causes the Flashlight to flicker.</li><li><b>Increases</b> the brightness of the Flashlight beam by <b>15%</b>.</li><li><b>Increases</b> Blindness duration by <b>30%</b>.</li><li><b>Increases</b> the spookiness just a little.</li>",
         "Role": "Camper",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "CanBeUsedAfterEvent": true,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Zambia/iconAddon_brokenFlashlightBulb.png"
@@ -8746,7 +8746,7 @@
         "Name": "Refined Serum",
         "Description": "A refined version of the putrid serum that\u2019s mostly safe for human consumption. Mostly.<br><br><li>Press the <i>Secondary Action button</i> while healing with the Med-kit to use the Refined Serum.</li><li><b>Increases</b> the speed of the Survivor by <b>5%</b> for <b>20 seconds</b>.</li><li>Creates a blight trail behind the Survivor.</li><li>Consumes the Med-kit on use.</li>",
         "Role": "Camper",
-        "Rarity": "Special Event",
+        "Rarity": "SpecialEvent",
         "CanBeUsedAfterEvent": true,
         "Bloodweb": true,
         "Image": "images/UI/Icons/ItemAddons/Zambia/iconAddon_blightedSyringe.png"

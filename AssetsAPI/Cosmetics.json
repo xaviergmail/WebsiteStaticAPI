@@ -192,6 +192,33 @@
         ],
         "Prices": []
     },
+    "AV_outfit_015": {
+        "CosmeticId": "AV_outfit_015",
+        "CosmeticName": "Retro Party ",
+        "Description": "Attending a 50's themed poker night, he dressed to look the part. ",
+        "IconFilePathList": "images/UI/Icons/Customization/AV_outfit_015.png",
+        "CollectionName": "Rockabilly",
+        "Type": "outfit",
+        "Character": 6,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "AV_Head015",
+            "AV_Torso015",
+            "AV_Legs015"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "HS_outfit_009": {
         "CosmeticId": "HS_outfit_009",
         "CosmeticName": "Inspirational Teacher",
@@ -2040,6 +2067,30 @@
             }
         ]
     },
+    "MS_outfit_016": {
+        "CosmeticId": "MS_outfit_016",
+        "CosmeticName": "Springtime Special ",
+        "Description": "Hosting a special episode in Kyoto, she interviewed famous Japanese celebrities during the Cherry Blossom season. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_outfit_016.png",
+        "CollectionName": "Hanami ",
+        "Type": "outfit",
+        "Character": 15,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "MS_Head016",
+            "MS_Torso016",
+            "MS_Legs016"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "KS_outfit_009": {
         "CosmeticId": "KS_outfit_009",
         "CosmeticName": "Into the Sunset",
@@ -2087,7 +2138,7 @@
         ],
         "Prices": [
             {
-                "Cells": 600
+                "Cells": 1080
             }
         ]
     },
@@ -2639,8 +2690,8 @@
         "Character": 1,
         "Unbreakable": false,
         "Purchasable": true,
-        "EndDate": "2020-09-24T23:59:59",
-        "StartDate": "2020-09-11T00:00:00",
+        "EndDate": "2021-03-19T15:59:59",
+        "StartDate": "2021-03-05T16:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "MT_Head015",
@@ -2650,9 +2701,6 @@
         "Prices": [
             {
                 "Cells": 1080
-            },
-            {
-                "Shards": 21600
             }
         ]
     },
@@ -3711,6 +3759,33 @@
         ],
         "Prices": []
     },
+    "S23_outfit_016": {
+        "CosmeticId": "S23_outfit_016",
+        "CosmeticName": "Bowling Night",
+        "Description": "Since he had a date at a bowling alley, he dressed to the nines.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/S23_outfit_016.png",
+        "CollectionName": "Rockabilly",
+        "Type": "outfit",
+        "Character": 22,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S23_Head016",
+            "S23_Torso016",
+            "S23_Legs016"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "S24_outfit_006": {
         "CosmeticId": "S24_outfit_006",
         "CosmeticName": "Reindeer Onesie",
@@ -4108,6 +4183,33 @@
             "S24_Legs02_02"
         ],
         "Prices": []
+    },
+    "S24_outfit_013": {
+        "CosmeticId": "S24_outfit_013",
+        "CosmeticName": "50's Night Out",
+        "Description": "She grabbed a drink at a retro bar inspired by the 50's to meet a collector of rare antiques. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S24_outfit_013.png",
+        "CollectionName": "Rockabilly",
+        "Type": "outfit",
+        "Character": 23,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S24_Head013",
+            "S24_Torso013",
+            "S24_Legs013"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
     },
     "S25_outfit_006": {
         "CosmeticId": "S25_outfit_006",
@@ -5139,6 +5241,30 @@
             }
         ]
     },
+    "S30_outfit_006": {
+        "CosmeticId": "S30_outfit_006",
+        "CosmeticName": "Research Trip ",
+        "Description": "He sailed the high seas off the coast of Southern Japan in search of answers. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S30_outfit_006.png",
+        "CollectionName": "High Seas ",
+        "Type": "outfit",
+        "Character": 29,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "S30_Head006",
+            "S30_Torso006",
+            "S30_Legs006"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            }
+        ]
+    },
     "QM_outfit_02": {
         "CosmeticId": "QM_outfit_02",
         "CosmeticName": "Scoops Ahoy",
@@ -5781,6 +5907,33 @@
             }
         ]
     },
+    "SwedenSurvivor_outfit_015": {
+        "CosmeticId": "SwedenSurvivor_outfit_015",
+        "CosmeticName": "Weekend Teatime ",
+        "Description": "She met with her supportive grandmother for tea under a large cherry tree in full bloom.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/SwedenSurvivor_outfit_015.png",
+        "CollectionName": "Hanami",
+        "Type": "outfit",
+        "Character": 19,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "SwedenSurvivor_Head015",
+            "SwedenSurvivor_Torso015",
+            "SwedenSurvivor_Legs015"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
+    },
     "US_outfit_006": {
         "CosmeticId": "US_outfit_006",
         "CosmeticName": "Grant Applicant",
@@ -6348,16 +6501,20 @@
         "Type": "outfit",
         "Character": 268435467,
         "Unbreakable": false,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "Rare",
         "OutfitItems": [
             "GK_Head012",
             "GK_Body012",
             "GK_W012"
         ],
-        "Prices": []
+        "Prices": [
+            {
+                "Cells": 675
+            }
+        ]
     },
     "GK_outfit_013": {
         "CosmeticId": "GK_outfit_013",
@@ -7172,7 +7329,7 @@
         ],
         "Prices": [
             {
-                "Cells": 840
+                "Cells": 1080
             }
         ]
     },
@@ -9073,6 +9230,30 @@
             }
         ]
     },
+    "K27_outfit_006": {
+        "CosmeticId": "K27_outfit_006",
+        "CosmeticName": "Rotten Remains",
+        "Description": "She dug her nails into the muddy ground and slowly crawled toward the cobbled wall inside the well. She gripped the stones to climb but had no hold or strength.",
+        "IconFilePathList": "images/UI/Icons/Customization/K27/K27_outfit_006.png",
+        "CollectionName": "Bottomless Well ",
+        "Type": "outfit",
+        "Character": 268435482,
+        "Unbreakable": true,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "UltraRare",
+        "OutfitItems": [
+            "K27_Head006",
+            "K27_Body006",
+            "K27_W006"
+        ],
+        "Prices": [
+            {
+                "Cells": 1485
+            }
+        ]
+    },
     "CA_outfit_006": {
         "CosmeticId": "CA_outfit_006",
         "CosmeticName": "Old Lady",
@@ -9195,7 +9376,7 @@
         ],
         "Prices": [
             {
-                "Cells": 600
+                "Cells": 1080
             }
         ]
     },
@@ -10217,16 +10398,23 @@
         "Type": "outfit",
         "Character": 268435470,
         "Unbreakable": false,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "VeryRare",
         "OutfitItems": [
             "MK_Mask007_01",
             "MK_Body007_01",
             "MK_W007_01"
         ],
-        "Prices": []
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
+            }
+        ]
     },
     "MK_outfit_01_04": {
         "CosmeticId": "MK_outfit_01_04",
@@ -10292,7 +10480,7 @@
         "CosmeticId": "HK_outfit_008",
         "CosmeticName": "Blazing Lineage",
         "Description": "She emerged from captivity when the serum sparked her ancestral rage, making her blood boil with fury.  ",
-        "IconFilePathList": "images/UI/Icons/Customization/HK_outfit_008.png",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_outfit_008.png",
         "CollectionName": "HALLOWED CATALYST",
         "Type": "outfit",
         "Character": 268435468,
@@ -10455,6 +10643,33 @@
         "Prices": [
             {
                 "Cells": 1080
+            }
+        ]
+    },
+    "HK_outfit_014": {
+        "CosmeticId": "HK_outfit_014",
+        "CosmeticName": "Traditional Yozakura ",
+        "Description": "Sakura blossoms swaying in the cold night wind was a distant memory tainted with blood. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_outfit_014.png",
+        "CollectionName": "Hanami ",
+        "Type": "outfit",
+        "Character": 268435468,
+        "Unbreakable": false,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "OutfitItems": [
+            "HK_Head014",
+            "HK_Body014",
+            "HK_W014"
+        ],
+        "Prices": [
+            {
+                "Cells": 1080
+            },
+            {
+                "Shards": 21600
             }
         ]
     },
@@ -10820,7 +11035,7 @@
         ],
         "Prices": [
             {
-                "Cells": 840
+                "Cells": 1080
             },
             {
                 "Shards": 21600
@@ -11256,7 +11471,7 @@
         ],
         "Prices": [
             {
-                "Cells": 600
+                "Cells": 1080
             }
         ]
     },
@@ -11741,7 +11956,7 @@
         ],
         "Prices": [
             {
-                "Cells": 600
+                "Cells": 1080
             }
         ]
     },
@@ -13764,7 +13979,7 @@
         ],
         "Prices": [
             {
-                "Cells": 600
+                "Cells": 1080
             }
         ]
     },
@@ -20249,6 +20464,69 @@
         "Prices": [
             {
                 "Cells": 100
+            }
+        ]
+    },
+    "AV_Head015": {
+        "CosmeticId": "AV_Head015",
+        "CosmeticName": "Greased Hair",
+        "Description": "Since his hair was a bit long for a classic 50's look, he greased the front and decided it was good enough.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Head015.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Head",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "AV_Torso015": {
+        "CosmeticId": "AV_Torso015",
+        "CosmeticName": "Lucky Leather Jacket",
+        "Description": "The lucky jacket he won during one wild night in Atlantic City. Tonight was the perfect occasion to pull it out of the drawer. Matched with a funky shirt he found at a thrift store.",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Torso015.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Torso",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "AV_Legs015": {
+        "CosmeticId": "AV_Legs015",
+        "CosmeticName": "Cuffed Denims",
+        "Description": "The easiest part of the outfit: jeans. Ace put a bit of effort and rolled up the cuffs to display a pair of bright red socks. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Ace/AV_Legs015.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Legs",
+        "Character": 6,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -26780,6 +27058,27 @@
             }
         ]
     },
+    "DF_Torso017": {
+        "CosmeticId": "DF_Torso017",
+        "CosmeticName": "Dog Walker Shirt",
+        "Description": "For the friendliest, yet most disorganized dog walker in town, call Dwight. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Dwight/DF_Torso017.png",
+        "CollectionName": "Cats & Dogs ",
+        "Type": "Torso",
+        "Character": 0,
+        "Purchasable": true,
+        "EndDate": "2022-04-07T14:59:59",
+        "StartDate": "2022-03-24T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
     "FM_Head001": {
         "CosmeticId": "FM_Head001",
         "CosmeticName": "Supernova Bang & Ponytail",
@@ -31388,6 +31687,60 @@
             }
         ]
     },
+    "MS_Head016": {
+        "CosmeticId": "MS_Head016",
+        "CosmeticName": "Chic Curly Bun",
+        "Description": "A classy bun with curls, matched with a refined pair of glasses for a smart look.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Head016.png",
+        "CollectionName": "Hanami ",
+        "Type": "Head",
+        "Character": 15,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MS_Torso016": {
+        "CosmeticId": "MS_Torso016",
+        "CosmeticName": "Violet Blouse ",
+        "Description": "A flowy, silky blouse matched with a delicate, polka-dotted scarf. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Torso016.png",
+        "CollectionName": "Hanami ",
+        "Type": "Torso",
+        "Character": 15,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "MS_Legs016": {
+        "CosmeticId": "MS_Legs016",
+        "CosmeticName": "Flowery Skirt",
+        "Description": "A flowery skirt adorned with a statement belt to showcase her legendary sense of style. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jane/MS_Legs016.png",
+        "CollectionName": "Hanami ",
+        "Type": "Legs",
+        "Character": 15,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "KS_Head007": {
         "CosmeticId": "KS_Head007",
         "CosmeticName": "Corpse Paint",
@@ -32369,6 +32722,27 @@
         "Prices": [
             {
                 "Cells": 100
+            }
+        ]
+    },
+    "KS_Torso013": {
+        "CosmeticId": "KS_Torso013",
+        "CosmeticName": "Rescue Supporters Shirt",
+        "Description": "He designed a logo for a dog shelter and sold t-shirts at concerts to raise fonds for rescue dogs in need of care. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Jeff/KS_Torso013.png",
+        "CollectionName": "Cats & Dogs ",
+        "Type": "Torso",
+        "Character": 14,
+        "Purchasable": true,
+        "EndDate": "2022-04-07T14:59:59",
+        "StartDate": "2022-03-24T15:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            },
+            {
+                "Shards": 4500
             }
         ]
     },
@@ -37775,6 +38149,27 @@
             }
         ]
     },
+    "NK_Torso019": {
+        "CosmeticId": "NK_Torso019",
+        "CosmeticName": "Cat's Claw Shirt",
+        "Description": "Cautious with strangers and averse to fake niceties, Nea had a natural affinity for cats. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Nea/NK_Torso019.png",
+        "CollectionName": "Cats & Dogs",
+        "Type": "Torso",
+        "Character": 4,
+        "Purchasable": true,
+        "EndDate": "2022-04-07T14:59:59",
+        "StartDate": "2022-03-24T15:00:00",
+        "Rarity": "Rare",
+        "Prices": [
+            {
+                "Cells": 250
+            },
+            {
+                "Shards": 4500
+            }
+        ]
+    },
     "S22_Torso01_01": {
         "CosmeticId": "S22_Torso01_01",
         "CosmeticName": "Golden Rooster Shirt",
@@ -39230,6 +39625,69 @@
             }
         ]
     },
+    "S23_Head016": {
+        "CosmeticId": "S23_Head016",
+        "CosmeticName": "Side Quiff ",
+        "Description": "A modern take on the 1950's pompadour hairstyle for a cool and classy look. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Head016.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Head",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S23_Torso016": {
+        "CosmeticId": "S23_Torso016",
+        "CosmeticName": "Bowling Shirt",
+        "Description": "He was once part of a bowling league at work\u2014not by choice. Tonight was the perfect occasion to showcase his skills and dust off the iconic shirt. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Torso016.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Torso",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S23_Legs016": {
+        "CosmeticId": "S23_Legs016",
+        "CosmeticName": "Retro Trousers",
+        "Description": "A pair of loose fitting trouser to complete the vintage look. He avoided the bowling alley's rental and brought his own pair of semi-brogue, spectator shoes. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S23/S23_Legs016.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Legs",
+        "Character": 22,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
     "S24_Head006": {
         "CosmeticId": "S24_Head006",
         "CosmeticName": "Happy Antlers",
@@ -40178,6 +40636,69 @@
         "Prices": [
             {
                 "Cells": 250
+            }
+        ]
+    },
+    "S24_Head013": {
+        "CosmeticId": "S24_Head013",
+        "CosmeticName": "Retro Hairdo",
+        "Description": "A beautiful and lustrous hairstyle for a classy look. Accentuated with red roses and a pair of matching glasses.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/S24/S24_Head013.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Head",
+        "Character": 23,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S24_Torso013": {
+        "CosmeticId": "S24_Torso013",
+        "CosmeticName": "Vintage Blouse",
+        "Description": "A red blouse with pearly buttons and a V-shaped opening in the back for an elegant touch. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S24/S24_Torso013.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Torso",
+        "Character": 23,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "S24_Legs013": {
+        "CosmeticId": "S24_Legs013",
+        "CosmeticName": "Polka-Dotted Trousers",
+        "Description": "A pair of slim-fitted trousers adorned with red roses. Matched with a pair of low-heeled, semi-brogue spectator shoes for a quick and easy run if the evening turns sour.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/S24/S24_Legs013.png",
+        "CollectionName": "Rockabilly",
+        "Type": "Legs",
+        "Character": 23,
+        "Purchasable": true,
+        "EndDate": "2022-03-31T14:59:59",
+        "StartDate": "2022-03-17T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -42506,6 +43027,60 @@
             }
         ]
     },
+    "S30_Head006": {
+        "CosmeticId": "S30_Head006",
+        "CosmeticName": "Well-Worn Beanie",
+        "Description": "Bright beanie to keep warm in the hauling winds off the coast. ",
+        "IconFilePathList": "images/UI/Icons/Customization/S30/S30_Head006.png",
+        "CollectionName": "High Seas ",
+        "Type": "Head",
+        "Character": 29,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S30_Torso006": {
+        "CosmeticId": "S30_Torso006",
+        "CosmeticName": "Athletic Jacket",
+        "Description": "A high-visibility jacket to stay safe and warm on the boat.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/S30/S30_Torso006.png",
+        "CollectionName": "High Seas ",
+        "Type": "Torso",
+        "Character": 29,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
+    "S30_Legs006": {
+        "CosmeticId": "S30_Legs006",
+        "CosmeticName": "Cargo Bermuda",
+        "Description": "A loose pair of shorts that dries quickly and comes with many pockets to store different pieces of equipment.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/S30/S30_Legs006.png",
+        "CollectionName": "High Seas ",
+        "Type": "Legs",
+        "Character": 29,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            }
+        ]
+    },
     "QM_Head006": {
         "CosmeticId": "QM_Head006",
         "CosmeticName": "Perfect Hair",
@@ -44162,6 +44737,69 @@
         "Prices": [
             {
                 "Cells": 100
+            }
+        ]
+    },
+    "SwedenSurvivor_Head015": {
+        "CosmeticId": "SwedenSurvivor_Head015",
+        "CosmeticName": "Sakura Dye",
+        "Description": "A pink balayage to match the Cherry Blossom season and display her ties to the Sakura 7. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Head015.png",
+        "CollectionName": "Hanami",
+        "Type": "Head",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "SwedenSurvivor_Torso015": {
+        "CosmeticId": "SwedenSurvivor_Torso015",
+        "CosmeticName": "Short Puffy Jacket",
+        "Description": "A short puffy coat to keep her warm while sporting a casual look.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Torso015.png",
+        "CollectionName": "Hanami",
+        "Type": "Torso",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "SwedenSurvivor_Legs015": {
+        "CosmeticId": "SwedenSurvivor_Legs015",
+        "CosmeticName": "Flowery Trousers",
+        "Description": "Loose-fitting pants with a flowery pattern to match the Cherry Blossom season. Paired with chic and comfortable loafers. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Yui/SwedenSurvivor_Legs015.png",
+        "CollectionName": "Hanami",
+        "Type": "Legs",
+        "Character": 19,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -46021,9 +46659,9 @@
         "CollectionName": "Crazed Carnie",
         "Type": "Head",
         "Character": 268435467,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "Rare",
         "Prices": [
             {
@@ -46039,9 +46677,9 @@
         "CollectionName": "Crazed Carnie",
         "Type": "Torso",
         "Character": 268435467,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "Rare",
         "Prices": [
             {
@@ -46057,9 +46695,9 @@
         "CollectionName": "Crazed Carnie",
         "Type": "Weapon",
         "Character": 268435467,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "Rare",
         "Prices": [
             {
@@ -55595,6 +56233,60 @@
             }
         ]
     },
+    "K27_Head006": {
+        "CosmeticId": "K27_Head006",
+        "CosmeticName": "Mucky Hair",
+        "Description": "A pile of muddy, grime dripping hair.",
+        "IconFilePathList": "images/UI/Icons/Customization/K27/K27_Head006.png",
+        "CollectionName": "Bottomless Well ",
+        "Type": "Head",
+        "Character": 268435482,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "K27_Body006": {
+        "CosmeticId": "K27_Body006",
+        "CosmeticName": "Decomposing Dress",
+        "Description": "A muddy and moldy dress in tatters. ",
+        "IconFilePathList": "images/UI/Icons/Customization/K27/K27_Body006.png",
+        "CollectionName": "Bottomless Well ",
+        "Type": "Torso",
+        "Character": 268435482,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
+    "K27_W006": {
+        "CosmeticId": "K27_W006",
+        "CosmeticName": "Ring of Vengeance",
+        "Description": "A grinding noise came from above and the well darkened, all light obscured like an eclipse in midday.",
+        "IconFilePathList": "images/UI/Icons/Customization/K27/K27_W006.png",
+        "CollectionName": "Bottomless Well ",
+        "Type": "Weapon",
+        "Character": 268435482,
+        "Purchasable": true,
+        "EndDate": "2022-03-22T15:59:59",
+        "StartDate": "2022-03-08T16:00:00",
+        "Rarity": "UltraRare",
+        "Prices": [
+            {
+                "Cells": 550
+            }
+        ]
+    },
     "CA_Head006": {
         "CosmeticId": "CA_Head006",
         "CosmeticName": "Lady of Leather",
@@ -57281,6 +57973,24 @@
             },
             {
                 "Shards": 7200
+            }
+        ]
+    },
+    "KK_Body021": {
+        "CosmeticId": "KK_Body021",
+        "CosmeticName": "Lethal Kitten Dress",
+        "Description": "A cat-eared hoodie dress with a logo of a deadly kitten. Don't be fooled by its adorable looks, this cat is in a stab-y mood. Matched with a pair of high-raise woolen socks and sturdy combat boots.",
+        "IconFilePathList": "images/UI/Icons/Customization/Legion/KK_Body021.png",
+        "CollectionName": "Cats & Dogs ",
+        "Type": "Torso",
+        "Character": 268435469,
+        "Purchasable": true,
+        "EndDate": "2022-04-07T14:59:59",
+        "StartDate": "2022-03-24T15:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 440
             }
         ]
     },
@@ -60562,9 +61272,9 @@
         "CollectionName": "Defender of the Faith",
         "Type": "Head",
         "Character": 268435470,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -60583,9 +61293,9 @@
         "CollectionName": "Defender of the Faith",
         "Type": "Torso",
         "Character": 268435470,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -60604,9 +61314,9 @@
         "CollectionName": "Defender of the Faith",
         "Type": "Weapon",
         "Character": 268435470,
-        "Purchasable": false,
-        "EndDate": "2018-06-25T23:59:59",
-        "StartDate": "2018-06-12T00:00:00",
+        "Purchasable": true,
+        "EndDate": "2022-03-03T15:59:59",
+        "StartDate": "2022-02-17T16:00:00",
         "Rarity": "VeryRare",
         "Prices": [
             {
@@ -62126,6 +62836,69 @@
         "Prices": [
             {
                 "Cells": 400
+            }
+        ]
+    },
+    "HK_Head014": {
+        "CosmeticId": "HK_Head014",
+        "CosmeticName": " Flowery Hair",
+        "Description": "A tangle of long black hair adorned with blood red flowers.",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Head014.png",
+        "CollectionName": "Hanami ",
+        "Type": "Head",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "HK_Body014": {
+        "CosmeticId": "HK_Body014",
+        "CosmeticName": "Red Spider Lily Kimono",
+        "Description": "A torn kimono embroidered with red spider lilies. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_Body014.png",
+        "CollectionName": "Hanami ",
+        "Type": "Torso",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
+            }
+        ]
+    },
+    "HK_W014": {
+        "CosmeticId": "HK_W014",
+        "CosmeticName": "Embellished Blade",
+        "Description": "An ornamental sword once used to protect the household from evil spirits. ",
+        "IconFilePathList": "images/UI/Icons/Customization/Spirit/HK_W014.png",
+        "CollectionName": "Hanami ",
+        "Type": "Weapon",
+        "Character": 268435468,
+        "Purchasable": true,
+        "EndDate": "2022-03-24T15:59:59",
+        "StartDate": "2022-03-10T16:00:00",
+        "Rarity": "VeryRare",
+        "Prices": [
+            {
+                "Cells": 400
+            },
+            {
+                "Shards": 7200
             }
         ]
     },
@@ -71896,6 +72669,30 @@
         "Character": -1,
         "Purchasable": false,
         "Rarity": "SpecialEvent",
+        "Prices": []
+    },
+    "KE_002": {
+        "CosmeticId": "KE_002",
+        "CosmeticName": "Cursed Videotape ",
+        "Description": "A videotape filled with disturbing images.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/KE_002.png",
+        "CollectionName": "Ringu ",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Uncommon",
+        "Prices": []
+    },
+    "KE_003": {
+        "CosmeticId": "KE_003",
+        "CosmeticName": "Pot of Gold \t",
+        "Description": "A shimmering pot at the far end of a rainbow.",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/KE_003.png",
+        "CollectionName": "Fortune's Favor",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "VeryRare",
         "Prices": []
     },
     "UN_Charm003": {
