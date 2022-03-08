@@ -2,6 +2,21 @@
     "news": [
         {
             "contentTags": [
+                "grdk"
+            ],
+            "description": "Recently, an anti-cheat issue prevented some players from being able to play the game. After reaching out to our partners, we're pleased to say that this issue is now resolved!<br/><br/>As a welcome back gift, Microsoft Store players who log in before March 7, 2022 6PM ET will receive a 500,000 Bloodpoint reward.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-07T16:00:00",
+            "title": "Important: Login Issue Resolved",
+            "type": 4,
+            "version": "5.5.0",
+            "weight": 30603.0
+        },
+        {
+            "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
