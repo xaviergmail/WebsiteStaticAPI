@@ -2,6 +2,7 @@
     "Tome06": {
         "Vignettes": [
             {
+                "VignetteId": "Tome06_Yui",
                 "Name": "Crash and Burn",
                 "SubTitle": "Memories: Yui Kimura",
                 "Entries": [
@@ -48,6 +49,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome06_Nurse",
                 "Name": "The Cleansing of Crotus Prenn",
                 "SubTitle": "Memories: Sally Smithson",
                 "Entries": [
@@ -94,6 +96,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome06_Observer",
                 "Name": "In Search of Things Lost",
                 "SubTitle": "Logs, Stories, and Notes",
                 "Entries": [
@@ -140,6 +143,7 @@
     "Tome07": {
         "Vignettes": [
             {
+                "VignetteId": "Tome07_Bill",
                 "Name": "The Long Way Home",
                 "SubTitle": "Memories: Bill Overbeck",
                 "Entries": [
@@ -166,6 +170,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome07_Plague",
                 "Name": "The Maiden Guard",
                 "SubTitle": "Memories: Adiris",
                 "Entries": [
@@ -212,6 +217,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome07_Observer",
                 "Name": "Universus Alveo",
                 "SubTitle": "Logs, Stories, and Notes",
                 "Entries": [
@@ -262,6 +268,7 @@
     "Tome08": {
         "Vignettes": [
             {
+                "VignetteId": "Tome08_Jake",
                 "Name": "Exile of the Kingdom",
                 "SubTitle": "Memories: Jake Park",
                 "Entries": [
@@ -308,6 +315,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome08_Clown",
                 "Name": "Finger of Chaos",
                 "SubTitle": "Memories: Jeffrey Hawk",
                 "Entries": [
@@ -350,6 +358,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome08_Observer",
                 "Name": "Midnight in the Garden of Infinity",
                 "SubTitle": "Logs, Stories, and Notes",
                 "Entries": [
@@ -400,6 +409,7 @@
     "Tome09": {
         "Vignettes": [
             {
+                "VignetteId": "Tome09_Trickster",
                 "Name": "Dissonance for the Dead",
                 "SubTitle": "Memories: Ji-Woon Hak",
                 "Entries": [
@@ -438,6 +448,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome09_YunJin",
                 "Name": "Chorus of Lies",
                 "SubTitle": "Memories: Yun-Jin Lee",
                 "Entries": [
@@ -476,6 +487,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome09_Observer",
                 "Name": "Web of the Abyss",
                 "SubTitle": "Logs, Stories, and Notes",
                 "Entries": [
@@ -506,6 +518,7 @@
     "Tome10": {
         "Vignettes": [
             {
+                "VignetteId": "Tome10_01",
                 "Name": "Vain Ambition ",
                 "SubTitle": "Memories: Amanda Young",
                 "Entries": [
@@ -540,6 +553,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome10_02",
                 "Name": "Desecration of the Heart ",
                 "SubTitle": "Memories: David Tapp",
                 "Entries": [
@@ -574,6 +588,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome10_03",
                 "Name": "Things in the Fog",
                 "SubTitle": "Logs, Stories, and Notes",
                 "Entries": [
@@ -624,6 +639,7 @@
     "Tome01": {
         "Vignettes": [
             {
+                "VignetteId": "Tome01_Alchemist",
                 "Name": "The Hunger",
                 "SubTitle": "Memories: The Alchemist",
                 "Entries": [
@@ -650,6 +666,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome01_Claudette",
                 "Name": "Claudette's 8th Birthday",
                 "SubTitle": "Memories: Claudette Morel",
                 "Entries": [
@@ -696,6 +713,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome01_Trapper",
                 "Name": "Blood, Brass and Grit",
                 "SubTitle": "Memories: Evan MacMillan",
                 "Entries": [
@@ -742,6 +760,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome01_Entity",
                 "Name": "The Entity",
                 "SubTitle": "Logs: 01, 54, 142, 557, 731",
                 "Entries": [
@@ -768,6 +787,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome01_Unknown",
                 "Name": "Revelations",
                 "SubTitle": "Logs: 1513, 1672, 4902",
                 "Entries": [
@@ -790,6 +810,7 @@
     "Tome02": {
         "Vignettes": [
             {
+                "VignetteId": "Tome02_Jane",
                 "Name": "All the World a Stage",
                 "SubTitle": "Memories: Jane Romero",
                 "Entries": [
@@ -824,6 +845,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome02_King",
                 "Name": "Manchester Mash-Up",
                 "SubTitle": "Memories: David King",
                 "Entries": [
@@ -858,6 +880,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome02_Doctor",
                 "Name": "Ascendance",
                 "SubTitle": "Memories: Herman Carter ",
                 "Entries": [
@@ -904,6 +927,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome02_Spirit",
                 "Name": "Steeped in Blood",
                 "SubTitle": "Memories: Rin Yamaoka",
                 "Entries": [
@@ -930,6 +954,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome02_Observer",
                 "Name": "Observations",
                 "SubTitle": "LOGS: 293, 328, 345, 632, 767, 1043, 3212, 7547\u2026",
                 "Entries": [
@@ -976,6 +1001,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome02_Secrets",
                 "Name": "Revelations",
                 "SubTitle": "LOGS: 223, 893, 1032, 7456",
                 "Entries": [
@@ -1002,6 +1028,7 @@
     "Tome03": {
         "Vignettes": [
             {
+                "VignetteId": "Tome03_Kate",
                 "Name": "Back to Zero",
                 "SubTitle": "Memories: Kate Denson",
                 "Entries": [
@@ -1028,6 +1055,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome03_Huntress",
                 "Name": "A Lovely War",
                 "SubTitle": "Memories: Anna",
                 "Entries": [
@@ -1054,6 +1082,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome03_Dwight",
                 "Name": "A Story By Any Other Name",
                 "SubTitle": "Memories: Dwight Fairfield",
                 "Entries": [
@@ -1100,6 +1129,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome03_Legion",
                 "Name": "Soldiers of Mayhem",
                 "SubTitle": "Memories: Julie Kostenko",
                 "Entries": [
@@ -1146,6 +1176,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome03_Observer",
                 "Name": "Observations",
                 "SubTitle": "LOGS: 182, 437, 571, 572, 789, 968 1118, 2903, 7294, 8875",
                 "Entries": [
@@ -1192,6 +1223,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome03_Secrets",
                 "Name": "Revelations",
                 "SubTitle": "LOGS: 129, 723, 1256",
                 "Entries": [
@@ -1214,6 +1246,7 @@
     "Tome04": {
         "Vignettes": [
             {
+                "VignetteId": "Tome04_Hag",
                 "Name": "Stroke of Luck",
                 "SubTitle": "Memories: Lisa Sherwood",
                 "Entries": [
@@ -1240,6 +1273,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome04_Ace",
                 "Name": "Go For Broke",
                 "SubTitle": "Memories: Ace Visconti",
                 "Entries": [
@@ -1274,6 +1308,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome04_Meg",
                 "Name": "Eat Dust",
                 "SubTitle": "Memories: Meg Thomas",
                 "Entries": [
@@ -1308,6 +1343,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome04_Wraith",
                 "Name": "The Algebra of Infinite Night",
                 "SubTitle": "Memories: Philip Ojomo",
                 "Entries": [
@@ -1354,6 +1390,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome04_Observer",
                 "Name": "Through the Looking Glass",
                 "SubTitle": "LOGS: 984, 985, 986, 987, 5736",
                 "Entries": [
@@ -1384,6 +1421,7 @@
     "Tome05": {
         "Vignettes": [
             {
+                "VignetteId": "Tome05_Halloween2018",
                 "Name": "The Hallowed Blight",
                 "SubTitle": "Journal entries and recollection",
                 "Entries": [
@@ -1446,6 +1484,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome05_Blight",
                 "Name": "Doors Unknown",
                 "SubTitle": "Memories: Talbot Grimes",
                 "Entries": [
@@ -1472,6 +1511,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome05_Nea",
                 "Name": "Rebel With a Cause",
                 "SubTitle": "Memories: Nea Karlsson",
                 "Entries": [
@@ -1518,6 +1558,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome05_Hillbilly",
                 "Name": "A Man Named Boy",
                 "SubTitle": "Memories: Max Thompson Jr.",
                 "Entries": [
@@ -1564,6 +1605,7 @@
                 ]
             },
             {
+                "VignetteId": "Tome05_Observer",
                 "Name": "Sanitus Alionis",
                 "SubTitle": "LOGS: 337, 1007, 1275, 2217, 5738, 5798, 7525, 8545, 8557, 8789",
                 "Entries": [
