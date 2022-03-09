@@ -2,6 +2,196 @@
     "news": [
         {
             "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "The Rift closes in less than 24h at April 6th 11AM ET! <b>Today is your last chance to get Tome 10: SAW Rift rewards.</b>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-04-05T15:00:00",
+            "title": "TOME 10: SAW - 24 hrs left",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "The Rift closes in less than 24h at April 6th 11AM ET! <b>Today is your last chance to get Tome 10: SAW Rift rewards.</b>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-04-05T15:00:00",
+            "title": "TOME 10: SAW - 24 hrs left",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "<b>The Rift for Tome 10: SAW will close at April 6th 11AM ET.</b><br/>For those without a Rift Pass, this will be the last chance to unlock it and claim any rewards you've earned on the Premium track. <br/><br/>Once the Rift closes the below will come into effect:<li>Challenges, Entries, and Bloodpoints from Tome 10 will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins, Tome 10: SAW will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen, whichever comes first.</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-30T15:00:00",
+            "title": "TOME 10: SAW - 1 week left",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "<b>The Rift for Tome 10: SAW will close at April 6th 11AM ET.</b><br/>For those without a Rift Pass, this will be the last chance to unlock it and claim any rewards you've earned on the Premium track. <br/><br/>Once the Rift closes the below will come into effect:<li>Challenges, Entries, and Bloodpoints from Tome 10 will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins, Tome 10: SAW will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen, whichever comes first.</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-30T15:00:00",
+            "title": "TOME 10: SAW - 1 week left",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Level 4 of Tome 10: SAW has now been unlocked<br/><br/>Malevolence draws ever closer, from beyond and from within. Unlock more of The Observer's memories through Tome 10.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-16T15:00:00",
+            "title": "TOME 10: SAW - LEVEL 4",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Level 4 of Tome 10: SAW has now been unlocked<br/><br/>Malevolence draws ever closer, from beyond and from within. Unlock more of The Observer's memories through Tome 10.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_JUP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-16T15:00:00",
+            "title": "TOME 10: SAW - LEVEL 4",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30607.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "The pursuit of knowledge can lead to hideous depths.<br/><br/>Now available in the store:<li>The Onryo - Rotten Remains</li><li>Yoichi Asakawa - Research Trip</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP2.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:00",
+            "title": "Sadako & Yoichi\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30605.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "The pursuit of knowledge can lead to hideous depths.<br/><br/>Now available in the store:<li>The Onryo - Rotten Remains</li><li>Yoichi Asakawa - Research Trip</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP2.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:00",
+            "title": "Sadako & Yoichi\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30605.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Wake Up perk has been disabled</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:01",
+            "title": "Release Patch Notes",
+            "type": 3,
+            "version": "5.6.0",
+            "weight": 30606.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Wake Up perk has been disabled</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:01",
+            "title": "Release Patch Notes",
+            "type": 3,
+            "version": "5.6.0",
+            "weight": 30606.0
+        },
+        {
+            "contentTags": [
                 "grdk"
             ],
             "description": "Recently, an anti-cheat issue prevented some players from being able to play the game. After reaching out to our partners, we're pleased to say that this issue is now resolved!<br/><br/>As a welcome back gift, Microsoft Store players who log in before March 7, 2022 6PM ET will receive a 500,000 Bloodpoint reward.",
