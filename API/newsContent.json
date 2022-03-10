@@ -19,7 +19,7 @@
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
         },
         {
             "contentTags": [
@@ -40,7 +40,7 @@
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
         },
         {
             "contentTags": [
@@ -61,7 +61,7 @@
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
         },
         {
             "contentTags": [
@@ -77,7 +77,7 @@
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
         },
         {
             "contentTags": [
@@ -98,7 +98,7 @@
             "title": "TOME 10: SAW - LEVEL 4",
             "type": 2,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
         },
         {
             "contentTags": [
@@ -114,7 +114,82 @@
             "title": "TOME 10: SAW - LEVEL 4",
             "type": 2,
             "version": "5.6.0",
-            "weight": 30607.0
+            "weight": 30700.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Terror is in full bloom.<br/><br/>Now available in the store from the <b>Hanami Collection</b>:<li>The Spirit - Traditional Yozakura</li><li>Jane - Springtime Special</li><li>Yui - Weekend Teatime</li><br/><br/>Check out the Collection Trailer: <a href=\"event:https://deadbydaylight.com/en/news/hanami_collection\"><u>deadbydaylight.com/en/news/hanami_collection</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP3.png",
+            "isHidden": false,
+            "startDate": "2022-03-10T16:00:00",
+            "title": "Spirit, Jane & Yui\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30610.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Terror is in full bloom.<br/><br/>Now available in the store from the <b>Hanami Collection</b>:<li>The Spirit - Traditional Yozakura</li><li>Jane - Springtime Special</li><li>Yui - Weekend Teatime</li><br/><br/>Check out the Collection Trailer: deadbydaylight.com/en/news/hanami_collection",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP3.png",
+            "isHidden": false,
+            "startDate": "2022-03-10T16:00:00",
+            "title": "Spirit, Jane & Yui\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30610.0
+        },
+        {
+            "contentTags": [
+                "grdk"
+            ],
+            "description": "Since our recent update, players attempting to purchase Auric Cells packs in-game are receiving a Purchase Cancelled message. We are currently investigating what causes that issue. In the meantime, players wishing to purchase Auric Cells packs can do it through Windows Store. We are sorry for the inconvenience and will update as soon as the issue is resolved.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-09T16:00:00",
+            "title": "In-Game Purchases",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30608.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs",
+                "stadia",
+                "switch"
+            ],
+            "description": "Update: Due to a bug, discounts in Iridescent Shards are unavailable. We are planning to bring them back after the issue is fixed.<br/><br/>Flash Sale! Take advantage of these discounts on Characters and Outfits!<br/><br/><b>20% OFF</b> select Characters & Outfits in <b>Auric Cells</b><br/><br/><i>Sale Period: March 9 11AM ET - March 15 11AM ET</i><br/><br/><span class=\"Heading2\">Characters</span><br/><li>The Trickster</li><li>Yun-Jin</li><li>Felix</li><li>Jane</li><li>Jeff</li><li>The Clown</li><li>The Deathslinger</li><br/><span class=\"Heading2\">Outfits</span><br/><li>The Trickster's Pressured Performer</li><li>Yun-Jin's Fire Moon Mourner</li><li>Felix's Seoul Wanderer</li><li>Jane's Photoshoot Ready</li><li>Jeff's Unhinged Rider</li><li>The Clown's Summer Fun Fair</li><li>The Deathslinger's Fishy Target</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP6.png",
+            "isHidden": false,
+            "startDate": "2022-03-10T10:00:00",
+            "title": "Flash Sale",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30609.0
         },
         {
             "contentTags": [
