@@ -124,6 +124,89 @@
                 "grdk",
                 "xsx",
                 "ps5",
+                "egs",
+                "stadia",
+                "switch"
+            ],
+            "description": "Congratulations! You made it through the first 7 days of Sadako's presence in the Fog. We thought we'd celebrate your survival with some Bloodpoints and Iridescent Shards. Claim them fast, since each log in reward expires after a day! <br/><br/><li>March 14th : 70,000 Bloodpoints + 170 Shards</li><li>March 15th : 70,000 Bloodpoints + 170 Shards</li><li>March 16th : 70,000 Bloodpoints + 170 Shards</li><li>March 17th : 70,000 Bloodpoints + 170 Shards</li><li>March 18th : 70,000 Bloodpoints + 170 Shards</li><li>March 19th : 70,000 Bloodpoints + 170 Shards</li><li>March 20th : 170,000 Bloodpoints + 980 Shards</li><br/><br/>Logging in every day gives you a total of 590,000 Bloodpoints and 2,000 Shards! Each log in reward is valid starting 11AM ET each day to 11AM ET the next day.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-14T15:00:01",
+            "title": "7-Day Login Calendar",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30613.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs",
+                "stadia",
+                "switch"
+            ],
+            "description": "The following has been temporarily disabled:<li>Object of Obsession Perk</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-14T15:00:00",
+            "title": "Disabled Content",
+            "type": 4,
+            "version": "5.6.0",
+            "weight": 30612.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Object of Obsession & Wake Up perks have been disabled</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:01",
+            "title": "Release Patch Notes",
+            "type": 3,
+            "version": "5.6.0",
+            "weight": 30611.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Object of Obsession & Wake Up perks have been disabled</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-08T16:00:01",
+            "title": "Release Patch Notes",
+            "type": 3,
+            "version": "5.6.0",
+            "weight": 30611.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
                 "egs"
             ],
             "description": "Nothing cuts tension at a family dinner like fine silk. Get the below with an Amazon Prime membership now.<br/><br/>Available with <b><font color=\"#9234eb\">Prime Gaming</font></b>:<li>Jake Park - <b>Fancy Family Dinner Outfit</b></li><br/><br/>Details: <a href=\"event:https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight\"><u>https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight</u></font></a><br/><br/>Get this content from March 10th through April 11th with Prime Gaming.",
@@ -264,43 +347,6 @@
             "type": 2,
             "version": "5.6.0",
             "weight": 30605.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "grdk",
-                "xsx",
-                "ps5",
-                "egs"
-            ],
-            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Wake Up perk has been disabled</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
-            "isHidden": false,
-            "startDate": "2022-03-08T16:00:01",
-            "title": "Release Patch Notes",
-            "type": 3,
-            "version": "5.6.0",
-            "weight": 30606.0
-        },
-        {
-            "contentTags": [
-                "stadia",
-                "switch"
-            ],
-            "description": "Welcome to Chapter 23! Please read the below for a quick summary of the new content you'll find.<br/><br/>For a full list of patch notes, please see forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES & CONTENT</span><br/><li>New Killer - The Onryo</li><li>New Survivor - Yoichi Asakawa</li><li>The Nurse is re-enabled</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause valid skill checks to be rejected under high network latency</li><li>Fixed an issue that caused the Nurse to be stuck and unable to move after a grab attempt after blinking is invalidated</li><li>Multiple other issues fixed</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Haddonfield map and the Strode Realty Key offering remain disabled</li><li>The Wake Up perk has been disabled</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
-            "isHidden": false,
-            "startDate": "2022-03-08T16:00:01",
-            "title": "Release Patch Notes",
-            "type": 3,
-            "version": "5.6.0",
-            "weight": 30606.0
         },
         {
             "contentTags": [
