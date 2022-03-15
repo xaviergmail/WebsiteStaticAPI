@@ -118,6 +118,43 @@
         },
         {
             "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "The game client has been updated to the 5.6.1 bugfix.<br/><br/><span class=\"Heading2\">Features</span><br/><li>Re-enabled the Wake Up & Object of Obsession perks after a bug fix.</li><br/><i>Please note that these perks will be re-enabled only after the update is available on <b>all platforms</b>.</i><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue that caused survivors to be stuck between a hook and a locker in Silent Hill map</li><li>Fixed an issue that caused the killer not being able to pick up the survivor in the basement's stairs</li><li>Fixed an issue that sometimes caused daily rituals to be generated for characters which are disabled</li><li>Fixed an issue that caused the Killer to crash when Survivors interacted with the exit switch with the Wake Up perk equipped</li><li>Fixed an issue that caused a crash when unhooking a Survivor using the perks Aftercare, Object of Obsession and Empathetic Connection</li><li>Multiple other issues fixed</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-15T15:00:00",
+            "title": "5.6.1 BUGFIX",
+            "type": 3,
+            "version": "5.6.1",
+            "weight": 30614.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "The game client has been updated to the 5.6.1 bugfix.<br/><br/><span class=\"Heading2\">Features</span><br/><li>Re-enabled the Wake Up & Object of Obsession perks after a bug fix.</li><br/><i>Please note that these perks will be re-enabled only after the update is available on <b>all platforms</b>.</i><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue that caused survivors to be stuck between a hook and a locker in Silent Hill map</li><li>Fixed an issue that caused the killer not being able to pick up the survivor in the basement's stairs</li><li>Fixed an issue that sometimes caused daily rituals to be generated for characters which are disabled</li><li>Fixed an issue that caused the Killer to crash when Survivors interacted with the exit switch with the Wake Up perk equipped</li><li>Fixed an issue that caused a crash when unhooking a Survivor using the perks Aftercare, Object of Obsession and Empathetic Connection</li><li>Multiple other issues fixed</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-15T15:00:00",
+            "title": "5.6.1 BUGFIX",
+            "type": 3,
+            "version": "5.6.1",
+            "weight": 30614.0
+        },
+        {
+            "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
