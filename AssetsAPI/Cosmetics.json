@@ -74783,6 +74783,18 @@
         "Rarity": "VeryRare",
         "Prices": []
     },
+    "KE_001": {
+        "CosmeticId": "KE_001",
+        "CosmeticName": "Wrathful Well ",
+        "Description": "An old stone well haunted by a wrathful presence.  ",
+        "IconFilePathList": "images/UI/Icons/Customization/Charms/KE_001.png",
+        "CollectionName": "Ringu ",
+        "Type": "Charm",
+        "Character": -1,
+        "Purchasable": false,
+        "Rarity": "Rare",
+        "Prices": []
+    },
     "AV_Head01": {
         "CosmeticId": "AV_Head01",
         "CosmeticName": "Ace",
