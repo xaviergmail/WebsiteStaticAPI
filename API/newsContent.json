@@ -19,7 +19,7 @@
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30700.0
+            "weight": 30750.0
         },
         {
             "contentTags": [
@@ -40,7 +40,7 @@
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30700.0
+            "weight": 30750.0
         },
         {
             "contentTags": [
@@ -61,7 +61,7 @@
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30700.0
+            "weight": 30730.0
         },
         {
             "contentTags": [
@@ -77,7 +77,81 @@
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
             "version": "5.6.0",
-            "weight": 30700.0
+            "weight": 30730.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "You didn't get all dressed up to show up late for dinner, did you? Get the below with an Amazon Prime membership now.<br/><br/>Time is running out to get the below outfit with <b><font color=\"#9234eb\">Prime Gaming</font></b>:<li>Jake Park - <b>Fancy Family Dinner Outfit</b></li><br/><br/>Details: <a href=\"event:https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight\"><u>https://deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight</u></font></a><br/><br/>Get this content from March 10th through April 11th with Prime Gaming.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-21T15:00:00",
+            "title": "AMAZON PRIME GAMING CONTENT\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30702.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "You didn't get all dressed up to show up late for dinner, did you? Get the below with an Amazon Prime membership now.<br/><br/>Time is running out to get the below outfit with <b><font color=\"#9234eb\">Prime Gaming</font></b>:<li>Jake Park - <b>Fancy Family Dinner Outfit</b></li><br/><br/>Details: deadbydaylight.com/en/news/prime-gaming-x-dead-by-daylight<br/><br/>Get this content from March 10th through April 11th with Prime Gaming.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-21T15:00:00",
+            "title": "AMAZON PRIME GAMING CONTENT\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30702.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "No matter how many times you get sacrificed - rockabilly will never die.<br/><br/>Now available in the store from the <b>Rockabilly Collection</b>:<li>Elodie - 50s' Night Out</li><li>Felix - Bowling Night</li><li>Ace - Retro Party</li><br/><br/>Check out the Collection Trailer:\u202f <a href=\"event:https://deadbydaylight.com/en/news/rockabilly_collection\"><u>deadbydaylight.com/en/news/rockabilly_collection</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP4.png",
+            "isHidden": false,
+            "startDate": "2022-03-17T15:00:00",
+            "title": "Elodie, Felix & Ace\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30701.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "No matter how many times you get sacrificed - rockabilly will never die.<br/><br/>Now available in the store from the <b>Rockabilly Collection</b>:<li>Elodie - 50s' Night Out</li><li>Felix - Bowling Night</li><li>Ace - Retro Party</li><br/><br/>Check out the Collection Trailer:\u202f deadbydaylight.com/en/news/rockabilly_collection",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP4.png",
+            "isHidden": false,
+            "startDate": "2022-03-17T15:00:00",
+            "title": "Elodie, Felix & Ace\u00a0",
+            "type": 2,
+            "version": "5.6.0",
+            "weight": 30701.0
         },
         {
             "contentTags": [
@@ -115,6 +189,21 @@
             "type": 2,
             "version": "5.6.0",
             "weight": 30700.0
+        },
+        {
+            "contentTags": [
+                "grdk"
+            ],
+            "description": "As of 5.6.1, the issue causing a Purchase Cancelled message has been resolved. Players are now able to purchase Auric Cell packs in-game.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-15T15:00:00",
+            "title": "In-Game Purchases Update",
+            "type": 4,
+            "version": "5.6.1",
+            "weight": 30615.0
         },
         {
             "contentTags": [
