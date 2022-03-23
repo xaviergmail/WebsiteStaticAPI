@@ -81,6 +81,43 @@
         },
         {
             "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "The game client has been updated to the 5.6.2 bugfix.<br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue which sometimes allowed purchasing of the same perk multiple times in the Shrine of Secrets</li><li>Fixed an issue which prevented purchasing of discounted outfits using Shards</li><li>Fixed an issue that caused killer being able to block the \"Unhook\" prompt with one of the hook in Industrial map</li><li>Fixed an issue that caused the makeup to be missing from Elodie's 50's Night Out outfit icon</li><li>Multiple other issues fixed</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-23T15:00:00",
+            "title": "5.6.2 BUGFIX",
+            "type": 3,
+            "version": "5.6.2",
+            "weight": 30614.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "The game client has been updated to the 5.6.2 bugfix.<br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue which sometimes allowed purchasing of the same perk multiple times in the Shrine of Secrets</li><li>Fixed an issue which prevented purchasing of discounted outfits using Shards</li><li>Fixed an issue that caused killer being able to block the \"Unhook\" prompt with one of the hook in Industrial map</li><li>Fixed an issue that caused the makeup to be missing from Elodie's 50's Night Out outfit icon</li><li>Multiple other issues fixed</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_KEP1.png",
+            "isHidden": false,
+            "startDate": "2022-03-23T15:00:00",
+            "title": "5.6.2 BUGFIX",
+            "type": 3,
+            "version": "5.6.2",
+            "weight": 30614.0
+        },
+        {
+            "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
