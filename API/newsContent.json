@@ -18,7 +18,7 @@
             "startDate": "2022-04-05T15:00:00",
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
-            "version": "5.6.0",
+            "version": "5.6.2",
             "weight": 30750.0
         },
         {
@@ -39,7 +39,7 @@
             "startDate": "2022-04-05T15:00:00",
             "title": "TOME 10: SAW - 24 hrs left",
             "type": 4,
-            "version": "5.6.0",
+            "version": "5.6.2",
             "weight": 30750.0
         },
         {
@@ -60,7 +60,7 @@
             "startDate": "2022-03-30T15:00:00",
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
-            "version": "5.6.0",
+            "version": "5.6.2",
             "weight": 30730.0
         },
         {
@@ -76,8 +76,45 @@
             "startDate": "2022-03-30T15:00:00",
             "title": "TOME 10: SAW - 1 week left",
             "type": 4,
-            "version": "5.6.0",
+            "version": "5.6.2",
             "weight": 30730.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "xsx",
+                "ps5",
+                "egs"
+            ],
+            "description": "Where do your loyalties lie?<br/><br/>Now available in the store from the <b>Cats & Dogs Collection</b>:<li>Nea - Cat's Claw Shirt</li><li>Dwight - Dog Walker Shirt</li><li>The Legion - Lethal Kitten Dress</li><br/><br/>Check out the Collection Trailer: <a href=\"event:https://deadbydaylight.com/en/news/cats_and_dogs_collection\"><u>deadbydaylight.com/en/news/cats_and_dogs_collection</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-23T16:00:00",
+            "title": "Nea, Dwight & Legion",
+            "type": 2,
+            "version": "5.6.2",
+            "weight": 30704.0
+        },
+        {
+            "contentTags": [
+                "stadia",
+                "switch"
+            ],
+            "description": "Where do your loyalties lie?<br/><br/>Now available in the store from the <b>Cats & Dogs Collection</b>:<li>Nea - Cat's Claw Shirt</li><li>Dwight - Dog Walker Shirt</li><li>The Legion - Lethal Kitten Dress</li><br/><br/>Check out the Collection Trailer: deadbydaylight.com/en/news/cats_and_dogs_collection",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2022-03-23T16:00:00",
+            "title": "Nea, Dwight & Legion",
+            "type": 2,
+            "version": "5.6.2",
+            "weight": 30704.0
         },
         {
             "contentTags": [
@@ -93,7 +130,7 @@
             "title": "5.6.2 BUGFIX",
             "type": 3,
             "version": "5.6.2",
-            "weight": 30614.0
+            "weight": 30703.0
         },
         {
             "contentTags": [
@@ -114,7 +151,7 @@
             "title": "5.6.2 BUGFIX",
             "type": 3,
             "version": "5.6.2",
-            "weight": 30614.0
+            "weight": 30703.0
         },
         {
             "contentTags": [
